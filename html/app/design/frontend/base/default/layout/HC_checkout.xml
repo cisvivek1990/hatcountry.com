@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<layout version="0.1.0">
+    <onepagecheckout_index_index>
+        <reference name="head">
+            <action method="addItem"><type>skin_js</type><name>js/hcCheckout.js</name></action>
+        </reference>
+    </onepagecheckout_index_index>
+</layout>

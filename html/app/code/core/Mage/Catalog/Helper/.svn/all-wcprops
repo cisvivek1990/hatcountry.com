@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Helper
+END
+Data.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Helper/Data.php
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Helper/Category.php
+END
+Map.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Helper/Map.php
+END
+Output.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Helper/Output.php
+END
+Product.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Helper/Product.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Helper/Image.php
+END

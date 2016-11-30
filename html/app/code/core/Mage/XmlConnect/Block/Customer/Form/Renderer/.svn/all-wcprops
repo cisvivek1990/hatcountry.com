@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Customer/Form/Renderer
+END
+Multiselect.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Customer/Form/Renderer/Multiselect.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Customer/Form/Renderer/Date.php
+END
+Textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Customer/Form/Renderer/Textarea.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Customer/Form/Renderer/Boolean.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Customer/Form/Renderer/File.php
+END
+Select.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Customer/Form/Renderer/Select.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Customer/Form/Renderer/Image.php
+END
+Multiline.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Customer/Form/Renderer/Multiline.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Customer/Form/Renderer/Text.php
+END

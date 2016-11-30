@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Resource/Quote/Address
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Resource/Quote/Address/Collection.php
+END
+Rate.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Resource/Quote/Address/Rate.php
+END
+Item.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Resource/Quote/Address/Item.php
+END

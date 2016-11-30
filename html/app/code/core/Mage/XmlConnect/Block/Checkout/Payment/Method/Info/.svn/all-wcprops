@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info
+END
+Checkmo.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Checkmo.php
+END
+Authorizenet.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Authorizenet.php
+END
+Free.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Free.php
+END
+Ccsave.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Ccsave.php
+END
+Purchaseorder.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Purchaseorder.php
+END

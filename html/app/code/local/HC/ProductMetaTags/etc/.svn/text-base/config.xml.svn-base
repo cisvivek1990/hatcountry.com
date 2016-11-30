@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<HC_ProductMetaTags>
+			<version>1.0.0</version>
+		</HC_ProductMetaTags>
+	</modules>
+
+	<global>
+		<models>
+			<hc_productmetatags>
+				<class>HC_ProductMetaTags_Model</class>
+			</hc_productmetatags>
+		</models>
+		<events>
+			<catalog_controller_product_view>
+			<observers>
+				<hc_productmetatags_observer>
+					<type>singleton</type>
+					<class>HC_ProductMetaTags_Model_Observer</class>
+					<method>setMetaTags</method>
+				</hc_productmetatags_observer>
+			</observers>
+		</catalog_controller_product_view>
+	</events>
+    </global>
+	<frontend>
+		<routers>
+			<HC_ProductMetaTags>
+				<use>standard</use>
+				<args>
+					<module>HC_ProductMetaTags</module>
+					<frontName>ProductMetaTags</frontName>
+				</args>
+			</HC_ProductMetaTags>
+		</routers>
+	</frontend>
+</config>

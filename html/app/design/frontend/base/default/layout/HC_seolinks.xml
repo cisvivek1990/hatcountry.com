@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<layout>
+    <catalog_product_view>
+        <reference name="head">
+            <block type="hc_seolinks/seoLinks" name="seolinks.products" as="hc_seolinks_open_graph_products" template="HC/seolinks/opengraph/products.phtml" />
+        </reference>
+    </catalog_product_view>
+
+    <default>
+        <reference name="head">
+            <block type="hc_seolinks/seoLinks" name="seolinks.categories" as="hc_seolinks_categories" template="HC/seolinks/catalog/category/categories.phtml" />
+        </reference>
+    </default>
+
+    <catalog_category_default>
+        <reference name = "head">
+            <block type="hc_seolinks/seoLinks" name="seolinks.categories" as="hc_seolinks_categories" template="HC/seolinks/catalog/category/categories.phtml" />
+        </reference>
+    </catalog_category_default>
+</layout>

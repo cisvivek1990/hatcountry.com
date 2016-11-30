@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Wishlist/etc
+END
+system.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Wishlist/etc/system.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Wishlist/etc/config.xml
+END
+adminhtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Wishlist/etc/adminhtml.xml
+END

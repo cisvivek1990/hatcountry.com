@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Oauth/Block/Adminhtml/Oauth
+END
+Authorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Oauth/Block/Adminhtml/Oauth/Authorize.php
+END
+Consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Oauth/Block/Adminhtml/Oauth/Consumer.php
+END
+AuthorizedTokens.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Oauth/Block/Adminhtml/Oauth/AuthorizedTokens.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Tax/Block/Checkout
+END
+Tax.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Tax/Block/Checkout/Tax.php
+END
+Subtotal.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Tax/Block/Checkout/Subtotal.php
+END
+Grandtotal.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Tax/Block/Checkout/Grandtotal.php
+END
+Shipping.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Tax/Block/Checkout/Shipping.php
+END
+Discount.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Tax/Block/Checkout/Discount.php
+END

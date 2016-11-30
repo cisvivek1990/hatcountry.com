@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Notification
+END
+Baseurl.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Notification/Baseurl.php
+END
+Survey.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Notification/Survey.php
+END
+Inbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Notification/Inbox.php
+END
+Toolbar.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Notification/Toolbar.php
+END
+Grid.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Notification/Grid.php
+END
+Security.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Notification/Security.php
+END
+Window.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Notification/Window.php
+END

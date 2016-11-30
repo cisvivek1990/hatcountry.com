@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Creditmemo/Total
+END
+Grand.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Creditmemo/Total/Grand.php
+END
+Tax.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Creditmemo/Total/Tax.php
+END
+Subtotal.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Creditmemo/Total/Subtotal.php
+END
+Shipping.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Creditmemo/Total/Shipping.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Creditmemo/Total/Abstract.php
+END
+Cost.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Creditmemo/Total/Cost.php
+END
+Discount.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Creditmemo/Total/Discount.php
+END

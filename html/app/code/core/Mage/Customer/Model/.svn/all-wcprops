@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Group.php
+END
+Customer.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Customer.php
+END
+Form.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Form.php
+END
+Attribute.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Session.php
+END
+Address.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Address.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Observer.php
+END

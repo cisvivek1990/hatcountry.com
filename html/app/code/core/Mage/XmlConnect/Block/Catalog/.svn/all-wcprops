@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Catalog
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Catalog/Category.php
+END
+Product.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Catalog/Product.php
+END
+Search.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Catalog/Search.php
+END
+Filters.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Catalog/Filters.php
+END

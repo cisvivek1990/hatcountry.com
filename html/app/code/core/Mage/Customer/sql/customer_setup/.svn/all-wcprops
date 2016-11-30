@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup
+END
+mysql4-upgrade-1.4.0.0.0-1.4.0.0.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.0-1.4.0.0.1.php
+END
+install-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/install-1.6.0.0.php
+END
+mysql4-upgrade-1.4.0.0.10-1.4.0.0.11.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.10-1.4.0.0.11.php
+END
+mysql4-upgrade-1.4.0.0.1-1.4.0.0.2.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.1-1.4.0.0.2.php
+END
+mysql4-upgrade-1.4.0.0.2-1.4.0.0.3.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.2-1.4.0.0.3.php
+END
+mysql4-upgrade-1.4.0.0.3-1.4.0.0.4.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.3-1.4.0.0.4.php
+END
+mysql4-upgrade-1.4.0.0.12-1.4.0.0.13.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.12-1.4.0.0.13.php
+END
+mysql4-upgrade-1.6.0.0-1.6.1.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.6.0.0-1.6.1.0.php
+END
+mysql4-upgrade-1.4.0.0.5-1.4.0.0.6.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.5-1.4.0.0.6.php
+END
+mysql4-upgrade-0.6.1-0.7.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.6.1-0.7.0.php
+END
+mysql4-upgrade-1.4.0.0.6-1.4.0.0.7.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.6-1.4.0.0.7.php
+END
+mysql4-upgrade-1.4.0.0.7-1.4.0.0.8.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.7-1.4.0.0.8.php
+END
+mysql4-upgrade-0.7.1-0.7.2.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.7.1-0.7.2.php
+END
+mysql4-upgrade-0.8.0-0.8.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.8.0-0.8.1.php
+END
+mysql4-upgrade-1.4.0.0.8-1.4.0.0.9.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.8-1.4.0.0.9.php
+END
+mysql4-upgrade-0.7.2-0.7.3.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.7.2-0.7.3.php
+END
+mysql4-upgrade-0.8.11-0.8.12.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.8.11-0.8.12.php
+END
+upgrade-1.6.2.0.1-1.6.2.0.2.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/upgrade-1.6.2.0.1-1.6.2.0.2.php
+END
+upgrade-1.6.1.0-1.6.2.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/upgrade-1.6.1.0-1.6.2.0.php
+END
+mysql4-install-1.4.0.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-install-1.4.0.0.0.php
+END
+mysql4-data-upgrade-1.4.0.0.7-1.4.0.0.8.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-data-upgrade-1.4.0.0.7-1.4.0.0.8.php
+END
+mysql4-upgrade-0.8.4-0.8.5.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.8.4-0.8.5.php
+END
+mysql4-data-upgrade-1.4.0.0.8-1.4.0.0.9.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-data-upgrade-1.4.0.0.8-1.4.0.0.9.php
+END
+mysql4-upgrade-1.5.9.9-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.5.9.9-1.6.0.0.php
+END
+mysql4-upgrade-0.8.5-0.8.6.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.8.5-0.8.6.php
+END
+mysql4-upgrade-0.8.12-1.4.0.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.8.12-1.4.0.0.0.php
+END
+mysql4-upgrade-1.4.0.0.9-1.4.0.0.10.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-1.4.0.0.9-1.4.0.0.10.php
+END
+mysql4-install-0.7.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-install-0.7.0.php
+END
+mysql4-upgrade-0.8.6-0.8.7.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.8.6-0.8.7.php
+END
+mysql4-install-0.8.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-install-0.8.0.php
+END
+mysql4-upgrade-0.8.7-0.8.8.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.8.7-0.8.8.php
+END
+mysql4-upgrade-0.8.8-0.8.9.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.8.8-0.8.9.php
+END
+mysql4-upgrade-0.8.9-0.8.10.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.8.9-0.8.10.php
+END
+mysql4-data-upgrade-1.4.0.0.11-1.4.0.0.12.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-data-upgrade-1.4.0.0.11-1.4.0.0.12.php
+END
+mysql4-data-upgrade-1.4.0.0.13-1.4.0.0.14.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-data-upgrade-1.4.0.0.13-1.4.0.0.14.php
+END
+mysql4-upgrade-0.8.10-0.8.11.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/mysql4-upgrade-0.8.10-0.8.11.php
+END
+upgrade-1.6.2.0-1.6.2.0.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/sql/customer_setup/upgrade-1.6.2.0-1.6.2.0.1.php
+END

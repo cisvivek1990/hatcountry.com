@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/total
+END
+tax.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/total/tax.phtml
+END
+nominal.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/total/nominal.phtml
+END
+default.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/total/default.phtml
+END

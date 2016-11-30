@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend
+END
+Startdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Startdate.php
+END
+Urlkey.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Urlkey.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Boolean.php
+END
+Groupprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Groupprice.php
+END
+Media.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Media.php
+END
+Recurring.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Recurring.php
+END
+Msrp.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Msrp.php
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Price.php
+END
+Sku.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Sku.php
+END
+Tierprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Attribute/Backend/Tierprice.php
+END

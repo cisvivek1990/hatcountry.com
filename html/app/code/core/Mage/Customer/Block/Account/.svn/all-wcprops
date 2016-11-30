@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Block/Account
+END
+Navigation.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Block/Account/Navigation.php
+END
+Forgotpassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Block/Account/Forgotpassword.php
+END
+Resetpassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Block/Account/Resetpassword.php
+END
+Dashboard.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Block/Account/Dashboard.php
+END

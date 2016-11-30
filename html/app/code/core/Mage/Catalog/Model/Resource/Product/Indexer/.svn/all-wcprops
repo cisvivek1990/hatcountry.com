@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Product/Indexer
+END
+Eav.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Product/Indexer/Eav.php
+END
+Price.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Product/Indexer/Price.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Product/Indexer/Abstract.php
+END

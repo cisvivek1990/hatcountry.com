@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Api2/Model/Auth/User
+END
+Customer.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Api2/Model/Auth/User/Customer.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Api2/Model/Auth/User/Abstract.php
+END
+Guest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Api2/Model/Auth/User/Guest.php
+END
+Admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Api2/Model/Auth/User/Admin.php
+END

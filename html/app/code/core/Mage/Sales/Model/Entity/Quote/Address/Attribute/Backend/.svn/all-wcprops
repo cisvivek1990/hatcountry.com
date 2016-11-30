@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Backend
+END
+Parent.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Backend/Parent.php
+END
+Child.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Backend/Child.php
+END
+Region.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Entity/Quote/Address/Attribute/Backend/Region.php
+END

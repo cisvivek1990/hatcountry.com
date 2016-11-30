@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/controllers/Tax
+END
+ClassController.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/controllers/Tax/ClassController.php
+END
+RuleController.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/controllers/Tax/RuleController.php
+END
+RateController.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/controllers/Tax/RateController.php
+END

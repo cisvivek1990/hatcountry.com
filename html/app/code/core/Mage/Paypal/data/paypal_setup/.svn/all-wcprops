@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/data/paypal_setup
+END
+data-upgrade-1.6.0.2-1.6.0.3.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/data/paypal_setup/data-upgrade-1.6.0.2-1.6.0.3.php
+END
+data-install-1.6.0.5.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/data/paypal_setup/data-install-1.6.0.5.php
+END
+data-upgrade-1.6.0.4-1.6.0.5.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/data/paypal_setup/data-upgrade-1.6.0.4-1.6.0.5.php
+END
+data-upgrade-1.6.0.5-1.6.0.6.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/data/paypal_setup/data-upgrade-1.6.0.5-1.6.0.6.php
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Block/Adminhtml/System
+END
+Reindex.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Block/Adminhtml/System/Reindex.php
+END
+Notwords.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Block/Adminhtml/System/Notwords.php
+END
+BtnAction.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Block/Adminhtml/System/BtnAction.php
+END
+WordReplace.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Block/Adminhtml/System/WordReplace.php
+END
+WildcardException.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Block/Adminhtml/System/WildcardException.php
+END

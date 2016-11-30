@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/controllers/Adminhtml/Connect
+END
+ConfigController.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/controllers/Adminhtml/Connect/ConfigController.php
+END
+DashboardController.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/controllers/Adminhtml/Connect/DashboardController.php
+END
+UserController.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/controllers/Adminhtml/Connect/UserController.php
+END

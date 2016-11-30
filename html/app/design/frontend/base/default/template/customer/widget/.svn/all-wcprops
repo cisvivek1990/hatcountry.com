@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer/widget
+END
+name.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer/widget/name.phtml
+END
+dob.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer/widget/dob.phtml
+END
+gender.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer/widget/gender.phtml
+END
+taxvat.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer/widget/taxvat.phtml
+END

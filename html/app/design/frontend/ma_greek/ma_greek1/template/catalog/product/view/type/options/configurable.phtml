@@ -1,0 +1,209 @@
+<?php
+/**
+ * Magento
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Academic Free License (AFL 3.0)
+ * that is bundled with this package in the file LICENSE_AFL.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/afl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magento.com so we can send you a copy immediately.
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade Magento to newer
+ * versions in the future. If you wish to customize Magento for your
+ * needs please refer to http://www.magento.com for more information.
+ *
+ * @category    design
+ * @package     base_default
+ * @copyright   Copyright (c) 2006-2014 X.commerce, Inc. (http://www.magento.com)
+ * @license     http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
+ */
+?>
+
+<?php
+$_product    = $this->getProduct();
+ $decode = json_decode($this->getJsonConfig(),true);
+//echo "<pre>";
+//print_r($decode);
+
+//$_attributes = $_product->getTypeInstance(true)->getConfigurableAttributes($_product);
+
+ $array_label=[];
+$_attributes = Mage::helper('core')->decorateArray($this->getAllowAttributes());
+?>
+
+<?php
+//$_attributes = $_product->getTypeInstance(true)->getConfigurableAttributesAsArray($_product);
+$attributeOptions = array();
+
+?>
+<?php if ($_product->isSaleable() && count($_attributes)):?>
+    <dl>
+    <?php foreach($_attributes as $_attribute): ?>
+            <?php foreach($decode['attributes'][$_attribute->getAttributeId()] as $key=>$val){
+               
+                foreach($val as $optLabel){
+                   $array_label[$_attribute->getAttributeId()][] = $optLabel['label'];
+                }    
+            }?>
+        <dt class="<?php if(count($array_label[$_attribute->getAttributeId()])==1 ){echo "single_values"; } ?>"><label class="required <?php if(count($array_label[$_attribute->getAttributeId()])==1 ){echo "single_values"; } ?>"><em>*</em><?php echo $_attribute->getLabel() ?>
+            <?php if(count($array_label[$_attribute->getAttributeId()])==1 )
+            echo "<p class='single_val'>". $_attribute->getLabel()."<span class='atr_label'> - " . $array_label[$_attribute->getAttributeId()][0]."</span><p>";
+            ?>
+        </label>
+        </dt>
+        <dd<?php if ($_attribute->decoratedIsLast){?> class="last"<?php }?>>
+            <div class="input-box">
+                <input type="hidden" value="" name="super_attribute[<?php echo $_attribute->getAttributeId() ?>]">
+                <select name="super_attribute[<?php echo $_attribute->getAttributeId() ?>]" id="attribute<?php echo $_attribute->getAttributeId() ?>" class="required-entry super-attribute-select <?php if(count($array_label[$_attribute->getAttributeId()])==1 ){echo "selectBox_hide";} ?> ">
+                   
+                                
+                    <option><?php echo $this->__('Choose an Option...') ?></option>
+                  </select>
+              </div>
+        </dd>
+    <?php endforeach; ?>
+    </dl>
+    <script type="text/javascript">
+        
+        
+        
+        
+        Product.Config.prototype.checkOptions = function(element) {
+            var numOptions = element.options.length-1;
+            if(numOptions > 0) {
+            element.up('dd').show().previous().show();
+             
+            }
+            if(numOptions == 1) {
+            element.options[1].selected = true;
+            this.configureElement(element);
+             
+            var selectedOption = element.options[1].text;
+             
+            if(selectedOption == 'None'){
+            element.up('dd').hide().previous().hide();
+            }
+            }
+             
+            };
+            Product.Config.prototype.initialize = (function(_super) {
+            return function() {
+            _super.apply(this, arguments);
+            this.checkOptions(this.settings.first());
+            };
+            })(Product.Config.prototype.initialize);
+            Product.Config.prototype.configureElement = (function(_super) {
+            return function() {
+            _super.apply(this, arguments);
+            if (!arguments[0].nextSetting) {
+            return;
+            }
+            this.checkOptions(arguments[0].nextSetting);
+            };
+            })(Product.Config.prototype.configureElement);
+        
+        
+        
+        
+        
+        
+        var spConfig = new Product.Config(<?php echo $this->getJsonConfig() ?>);
+        
+        spConfig.setInitialState = function(dropdown_id) {
+            jQuery.when( spConfig.fillSelect(jQuery('#' + dropdown_id)[0])).then(function(){
+                var option = jQuery("select option[value='']").first();
+               // alert(count(option));
+                var parent = option.parent()[0];
+                option.remove();
+                parent.selectedIndex = 0;
+                if(parent.nextSetting) {
+                    parent.nextSetting.disabled = false;
+                }
+            });
+            var dropdown = $(dropdown_id);
+            var mySelect = document.getElementById(dropdown_id);
+           // alert(mySelect.options.length);
+               if(mySelect.options.length ==1){
+                //alert(mySelect.val());
+                // dropdown[0].remove();
+               // jQuery(mySelect +"option:first").attr('selected','selected');
+             //  mySelect.hide();
+            }
+            //dropdown[0].remove();
+            for(index = 0; index < dropdown.length; index++)
+            {
+             
+            if(dropdown[index].value != "")
+            {
+            dropdown.selectedIndex = index;
+             
+            var element = dropdown;
+            var event = 'change';
+             
+            //fire events
+            if(document.createEventObject)
+            {
+             
+            var evt = document.createEventObject();
+            return element.fireEvent('on'+event,evt)
+            }
+            else
+            {
+             
+            var evt = document.createEvent("HTMLEvents");
+            evt.initEvent(event, true, true );
+            return !element.dispatchEvent(evt);
+            }
+            }
+            }
+        };
+
+        function setOptionsInitialState() {
+            <?php foreach($_attributes as $_attribute): ?>
+             spConfig.setInitialState("attribute<?php echo $_attribute->getAttributeId() ?>")
+            <?php endforeach; ?>
+        }   
+
+    </script>
+<?php endif;?>
+<script>
+    
+jQuery( document ).ready(function() { 
+   
+    jQuery('.single_val').prependTo('#product-options-wrapper');
+        
+})
+
+   // jQuery('.super-attribute-select').click(function() {
+   jQuery(window).bind("load", function() {
+    jQuery('.super-attribute-select').on('change', function( evt ) {
+    evt.preventDefault();
+    
+   // spConfig.fillSelect(evt);
+    
+    
+    
+    
+       // jQuery('.selectBox_hide option').next().attr('selected', 'selected');
+        
+        // jQuery('.selectBox_hide').css('display','block');
+       //  jQuery('.single_val').css('display','none');
+       //  jQuery('.single_values').css('display','block');
+       
+         jQuery('.product-options dl').css('border-top','0px');
+         jQuery('.product-shop-inner .price-box').css('border-bottom','0px');
+         
+        // jQuery('.atr_label').css('display','none');
+        // jQuery('.single_val').appendTo('#product-options-wrapper');
+         jQuery('.super-attribute-select').removeAttr('disabled');
+        jQuery('.selectBox_hide').removeAttr('disabled');
+ })
+}) 
+
+</script>

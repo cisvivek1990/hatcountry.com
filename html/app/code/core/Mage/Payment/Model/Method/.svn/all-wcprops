@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Payment/Model/Method
+END
+Checkmo.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Payment/Model/Method/Checkmo.php
+END
+Cashondelivery.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Payment/Model/Method/Cashondelivery.php
+END
+Banktransfer.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Payment/Model/Method/Banktransfer.php
+END
+Free.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Payment/Model/Method/Free.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Payment/Model/Method/Abstract.php
+END
+Ccsave.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Payment/Model/Method/Ccsave.php
+END
+Cc.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Payment/Model/Method/Cc.php
+END
+Purchaseorder.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Payment/Model/Method/Purchaseorder.php
+END

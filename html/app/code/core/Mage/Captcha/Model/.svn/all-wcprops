@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Captcha/Model
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Captcha/Model/Interface.php
+END
+Zend.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Captcha/Model/Zend.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Captcha/Model/Observer.php
+END

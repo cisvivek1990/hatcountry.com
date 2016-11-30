@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Dataflow/Model/Convert/Adapter
+END
+Std.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Dataflow/Model/Convert/Adapter/Std.php
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Dataflow/Model/Convert/Adapter/Http.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Dataflow/Model/Convert/Adapter/Interface.php
+END
+Soap.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Dataflow/Model/Convert/Adapter/Soap.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Dataflow/Model/Convert/Adapter/Abstract.php
+END
+Io.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Dataflow/Model/Convert/Adapter/Io.php
+END

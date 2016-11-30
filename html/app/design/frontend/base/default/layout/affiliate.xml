@@ -1,0 +1,153 @@
+<?xml version="1.0"?>   
+<layout version="1.0.0"> 
+
+	<default>
+		<reference name="head">
+			<block type="affiliate/section" name="affiliate_section_head" >
+				 <action method="setSection"><section>head</section></action>
+			</block>
+	   </reference>
+	   <reference name="after_body_start">
+			<block type="affiliate/section" name="affiliate_section_bodybegin" before="content">
+				 <action method="setSection"><section>bodybegin</section></action>
+			</block>
+	   </reference>
+	   <reference name="before_body_end">
+			<block type="affiliate/section" name="affiliate_section_bodyend" >
+				 <action method="setSection"><section>bodyend</section></action>
+			</block>
+	   </reference>
+	</default>
+	
+	<!-- Order Success Page -->
+	<affiliate_checkout_onepage_success translate="label">
+        <reference name="head">
+			<reference name="affiliate_section_head" >
+				 <action method="addIncludeon"><section>checkout_success</section></action>
+			</reference>
+	   </reference>
+	   <reference name="after_body_start">
+			<reference name="affiliate_section_bodybegin" >
+				 <action method="addIncludeon"><section>checkout_success</section></action>
+			</reference>
+	   </reference>
+	   <reference name="before_body_end">
+			<reference name="affiliate_section_bodyend" >
+				 <action method="addIncludeon"><section>checkout_success</section></action>
+			</reference>
+	   </reference>
+    </affiliate_checkout_onepage_success>
+    
+    <checkout_onepage_success translate="label">
+        <update handle="affiliate_checkout_onepage_success"/>
+    </checkout_onepage_success>
+    
+    <checkout_multishipping_success translate="label">
+        <update handle="affiliate_checkout_onepage_success"/>
+    </checkout_multishipping_success>
+    
+    <pagosonline_gateway_success>
+		<update handle="affiliate_checkout_onepage_success"/>
+    </pagosonline_gateway_success>
+
+    <onepagecheckout_index_success>
+    	<update handle="affiliate_checkout_onepage_success"/>
+    </onepagecheckout_index_success>
+	
+	<!-- Home Page -->
+	<cms_index_index translate="label">
+        <reference name="head">
+			<reference name="affiliate_section_head" >
+				 <action method="addIncludeon"><section>home_page</section></action>
+			</reference>
+	   </reference>
+	   <reference name="after_body_start">
+			<reference name="affiliate_section_bodybegin" >
+				 <action method="addIncludeon"><section>home_page</section></action>
+			</reference>
+	   </reference>
+	   <reference name="before_body_end">
+			<reference name="affiliate_section_bodyend" >
+				 <action method="addIncludeon"><section>home_page</section></action>
+			</reference>
+	   </reference>
+    </cms_index_index>
+
+	<!-- Product Page -->
+	<catalog_product_view translate="label">
+        <reference name="head">
+			<reference name="affiliate_section_head" >
+				 <action method="addIncludeon"><section>product_page</section></action>
+			</reference>
+	   </reference>
+	   <reference name="after_body_start">
+			<reference name="affiliate_section_bodybegin" >
+				 <action method="addIncludeon"><section>product_page</section></action>
+			</reference>
+	   </reference>
+	   <reference name="before_body_end">
+			<reference name="affiliate_section_bodyend" >
+				 <action method="addIncludeon"><section>product_page</section></action>
+			</reference>
+	   </reference>
+    </catalog_product_view>
+	
+	<!-- Category Page -->
+	<catalog_category_view translate="label">
+        <reference name="head">
+			<reference name="affiliate_section_head" >
+				 <action method="addIncludeon"><section>category_page</section></action>
+			</reference>
+	   </reference>
+	   <reference name="after_body_start">
+			<reference name="affiliate_section_bodybegin" >
+				 <action method="addIncludeon"><section>category_page</section></action>
+			</reference>
+	   </reference>
+	   <reference name="before_body_end">
+			<reference name="affiliate_section_bodyend" >
+				 <action method="addIncludeon"><section>category_page</section></action>
+			</reference>
+	   </reference>
+    </catalog_category_view>
+    
+    <!-- Cart Page -->
+	<checkout_cart_index translate="label">
+        <reference name="head">
+			<reference name="affiliate_section_head" >
+				 <action method="addIncludeon"><section>cart_page</section></action>
+			</reference>
+	   </reference>
+	   <reference name="after_body_start">
+			<reference name="affiliate_section_bodybegin" >
+				 <action method="addIncludeon"><section>cart_page</section></action>
+			</reference>
+	   </reference>
+	   <reference name="before_body_end">
+			<reference name="affiliate_section_bodyend" >
+				 <action method="addIncludeon"><section>cart_page</section></action>
+			</reference>
+	   </reference>
+    </checkout_cart_index>
+    
+    <!-- OnePage Chackout -->
+	<checkout_onepage_index translate="label">
+        <reference name="head">
+			<reference name="affiliate_section_head" >
+				 <action method="addIncludeon"><section>one_page_chackout</section></action>
+			</reference>
+	   </reference>
+	   <reference name="after_body_start">
+			<reference name="affiliate_section_bodybegin" >
+				 <action method="addIncludeon"><section>one_page_chackout</section></action>
+			</reference>
+	   </reference>
+	   <reference name="before_body_end">
+			<reference name="affiliate_section_bodyend" >
+				 <action method="addIncludeon"><section>one_page_chackout</section></action>
+			</reference>
+	   </reference>
+    </checkout_onepage_index>
+	
+</layout>   
+	

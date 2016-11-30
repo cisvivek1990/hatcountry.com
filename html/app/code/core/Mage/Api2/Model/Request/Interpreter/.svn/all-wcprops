@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Api2/Model/Request/Interpreter
+END
+Json.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Api2/Model/Request/Interpreter/Json.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Api2/Model/Request/Interpreter/Interface.php
+END
+Xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Api2/Model/Request/Interpreter/Xml.php
+END
+Query.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Api2/Model/Request/Interpreter/Query.php
+END

@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/root/!svn/ver/112763/hatcountry-magento/test/app/locale/en_US/template/email
+END
+account_new_confirmation.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/account_new_confirmation.html
+END
+contact_form.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/contact_form.html
+END
+email_template_after_post_testimonial.html
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/email_template_after_post_testimonial.html
+END
+token.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/token.html
+END
+currency_update_warning.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/currency_update_warning.html
+END
+payment_failed.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/payment_failed.html
+END
+admin_password_new.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/admin_password_new.html
+END
+admin_password_reset_confirmation.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/admin_password_reset_confirmation.html
+END
+account_password_reset_confirmation.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/account_password_reset_confirmation.html
+END
+wishlist_share.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/wishlist_share.html
+END
+product_price_alert.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/product_price_alert.html
+END
+newsletter_subscr_confirm.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/newsletter_subscr_confirm.html
+END
+account_new_confirmed.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/account_new_confirmed.html
+END
+newsletter_unsub_success.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/newsletter_unsub_success.html
+END
+sitemap_generate_warning.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sitemap_generate_warning.html
+END
+product_alert_cron_error.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/product_alert_cron_error.html
+END
+product_share.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/product_share.html
+END
+moneybookers_activateemail.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/moneybookers_activateemail.html
+END
+newsletter_subscr_success.html
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/newsletter_subscr_success.html
+END
+account_new.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/account_new.html
+END
+email_template_after_approve_testimonial.html
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/email_template_after_approve_testimonial.html
+END
+log_clean_warning.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/log_clean_warning.html
+END
+product_stock_alert.html
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/product_stock_alert.html
+END
+password_new.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/password_new.html
+END

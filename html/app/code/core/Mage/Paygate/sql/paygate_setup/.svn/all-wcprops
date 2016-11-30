@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paygate/sql/paygate_setup
+END
+mysql4-install-0.7.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paygate/sql/paygate_setup/mysql4-install-0.7.0.php
+END
+mysql4-upgrade-0.7.0-0.7.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paygate/sql/paygate_setup/mysql4-upgrade-0.7.0-0.7.1.php
+END
+install-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paygate/sql/paygate_setup/install-1.6.0.0.php
+END
+mysql4-data-upgrade-0.7.0-0.7.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paygate/sql/paygate_setup/mysql4-data-upgrade-0.7.0-0.7.1.php
+END

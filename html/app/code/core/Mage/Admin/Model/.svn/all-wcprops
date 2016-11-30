@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model
+END
+Rules.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Rules.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/User.php
+END
+Acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Acl.php
+END
+Redirectpolicy.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Redirectpolicy.php
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Role.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Session.php
+END
+Roles.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Roles.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Config.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Observer.php
+END

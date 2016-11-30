@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Resource/Order/Shipment/Attribute/Backend
+END
+Parent.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Resource/Order/Shipment/Attribute/Backend/Parent.php
+END
+Child.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Resource/Order/Shipment/Attribute/Backend/Child.php
+END

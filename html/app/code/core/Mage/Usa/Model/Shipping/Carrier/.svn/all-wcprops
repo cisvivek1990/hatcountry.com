@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier
+END
+Usps.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Usps.php
+END
+Fedex.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Fedex.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Abstract.php
+END
+Dhl.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl.php
+END
+Ups.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Ups.php
+END

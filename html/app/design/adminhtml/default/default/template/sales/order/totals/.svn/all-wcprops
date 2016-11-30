@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals
+END
+refunded.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/refunded.phtml
+END
+tax.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/tax.phtml
+END
+due.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/due.phtml
+END
+paid.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/paid.phtml
+END
+subtotal.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/subtotal.phtml
+END
+footer.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/footer.phtml
+END
+item.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/item.phtml
+END
+shipping.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/shipping.phtml
+END
+main.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/main.phtml
+END
+discount.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/discount.phtml
+END
+grand.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals/grand.phtml
+END

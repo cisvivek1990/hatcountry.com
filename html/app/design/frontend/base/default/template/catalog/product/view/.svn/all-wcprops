@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/112686/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view
+END
+media.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/media.phtml
+END
+price.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/price.phtml
+END
+price_clone.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/price_clone.phtml
+END
+description.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/description.phtml
+END
+addtocart.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/addtocart.phtml
+END
+attributes.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/attributes.phtml
+END
+additional.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/additional.phtml
+END
+tierprices.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/tierprices.phtml
+END
+addto.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/addto.phtml
+END
+options.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/options.phtml
+END

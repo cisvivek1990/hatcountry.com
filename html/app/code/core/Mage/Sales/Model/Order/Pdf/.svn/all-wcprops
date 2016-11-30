@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Pdf
+END
+Invoice.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Pdf/Invoice.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Pdf/Abstract.php
+END
+Shipment.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Pdf/Shipment.php
+END
+Creditmemo.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Order/Pdf/Creditmemo.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogSearch/controllers
+END
+AdvancedController.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogSearch/controllers/AdvancedController.php
+END
+TermController.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogSearch/controllers/TermController.php
+END
+ResultController.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogSearch/controllers/ResultController.php
+END
+AjaxController.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogSearch/controllers/AjaxController.php
+END

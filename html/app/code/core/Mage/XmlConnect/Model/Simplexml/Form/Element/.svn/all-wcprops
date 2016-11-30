@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element
+END
+Multiselect.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Multiselect.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Collection.php
+END
+CountryListSelect.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/CountryListSelect.php
+END
+Fieldset.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Fieldset.php
+END
+Multiline.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Multiline.php
+END
+Password.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Password.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Abstract.php
+END
+Custom.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Custom.php
+END
+Textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Textarea.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Date.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/File.php
+END
+Select.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Select.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Image.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Text.php
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Validator.php
+END
+Checkbox.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Checkbox.php
+END
+Email.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Model/Simplexml/Form/Element/Email.php
+END

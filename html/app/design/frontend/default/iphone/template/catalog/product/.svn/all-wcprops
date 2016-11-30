@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/default/iphone/template/catalog/product
+END
+gallery.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/default/iphone/template/catalog/product/gallery.phtml
+END
+price.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/default/iphone/template/catalog/product/price.phtml
+END
+price_msrp.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/default/iphone/template/catalog/product/price_msrp.phtml
+END
+price_msrp_noform.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/default/iphone/template/catalog/product/price_msrp_noform.phtml
+END
+view.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/default/iphone/template/catalog/product/view.phtml
+END
+list.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/default/iphone/template/catalog/product/list.phtml
+END

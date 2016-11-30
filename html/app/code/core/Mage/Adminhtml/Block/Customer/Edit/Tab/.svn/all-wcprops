@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab
+END
+Cart.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/Cart.php
+END
+View.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/View.php
+END
+Tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/Tag.php
+END
+Account.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/Account.php
+END
+Carts.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/Carts.php
+END
+Newsletter.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/Newsletter.php
+END
+Addresses.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/Addresses.php
+END
+Orders.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/Orders.php
+END
+Tags.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/Tags.php
+END
+Reviews.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/Reviews.php
+END
+Wishlist.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Customer/Edit/Tab/Wishlist.php
+END

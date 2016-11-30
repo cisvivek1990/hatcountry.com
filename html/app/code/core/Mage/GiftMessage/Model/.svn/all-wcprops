@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/GiftMessage/Model
+END
+Api.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/GiftMessage/Model/Api.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/GiftMessage/Model/Message.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/GiftMessage/Model/Observer.php
+END

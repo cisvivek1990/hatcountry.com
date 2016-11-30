@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/etc/wsdl/FedEx
+END
+RateService_v9.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/etc/wsdl/FedEx/RateService_v9.wsdl
+END
+ShipService_v10.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/etc/wsdl/FedEx/ShipService_v10.wsdl
+END
+TrackService_v5.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/etc/wsdl/FedEx/TrackService_v5.wsdl
+END
+RateService_v10.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/etc/wsdl/FedEx/RateService_v10.wsdl
+END
+ShipService_v9.wsdl
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/etc/wsdl/FedEx/ShipService_v9.wsdl
+END

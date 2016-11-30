@@ -1,0 +1,7 @@
+2015-06-16 alt
+
+* Error messages while feed generation: "wrong Chain", "Proccess is aborted by another proccess"
+
+* changed files:
+
+/app/code/local/Mirasvit/FeedExport/Model/feed.php

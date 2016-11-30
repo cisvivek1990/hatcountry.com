@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/ImportExport/Model/Export/Adapter
+END
+Csv.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/ImportExport/Model/Export/Adapter/Csv.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/ImportExport/Model/Export/Adapter/Abstract.php
+END

@@ -1,0 +1,15 @@
+<?php $product = Mage::registry('current_product'); ?>
+
+<meta property='og:url' content='<?php echo $product->getProductUrl(); ?>'/>
+<meta property='og:type' content='og:product'/>
+<meta property='og:title' content='<?php echo trim(strip_tags(str_replace("'", "", $product->getName()))); ?>'/>
+<meta property='og:description' content='<?php echo trim(strip_tags(str_replace("'", "", $product->getMetaDescription()))); ?>'>
+
+<?php foreach ($product->getMediaGallery('images') as $_image): ?>
+    <meta property='og:image' content='<?php echo Mage::helper('catalog/image')->init($product, 'image', $_image['file']); ?>'/>
+<?php endforeach; ?>
+
+<?php if ($data = $this->getPrice($product)) { ?>
+    <meta property='og:product:price:amount' content='<?php echo $data['amount']; ?>'/>
+    <meta property='og:product:price:currency' content='<?php echo $data['currency']; ?>'/>
+<?php } ?>

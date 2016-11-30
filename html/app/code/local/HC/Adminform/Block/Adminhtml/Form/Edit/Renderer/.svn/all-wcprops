@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/111237/hatcountry-magento/test/app/code/local/HC/Adminform/Block/Adminhtml/Form/Edit/Renderer
+END
+Label.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/HC/Adminform/Block/Adminhtml/Form/Edit/Renderer/Label.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/111237/hatcountry-magento/test/app/code/local/HC/Adminform/Block/Adminhtml/Form/Edit/Renderer/Image.php
+END
+Multienabled.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/HC/Adminform/Block/Adminhtml/Form/Edit/Renderer/Multienabled.php
+END

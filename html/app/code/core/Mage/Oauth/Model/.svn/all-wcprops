@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Oauth/Model
+END
+Consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Oauth/Model/Consumer.php
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Oauth/Model/Token.php
+END
+Nonce.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Oauth/Model/Nonce.php
+END
+Server.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Oauth/Model/Server.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Oauth/Model/Observer.php
+END

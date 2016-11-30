@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Connect/Block/Adminhtml/Extension/Custom/Edit/Tab
+END
+Local.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Connect/Block/Adminhtml/Extension/Custom/Edit/Tab/Local.php
+END
+Package.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Connect/Block/Adminhtml/Extension/Custom/Edit/Tab/Package.php
+END
+Contents.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Connect/Block/Adminhtml/Extension/Custom/Edit/Tab/Contents.php
+END
+Load.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Connect/Block/Adminhtml/Extension/Custom/Edit/Tab/Load.php
+END
+Release.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Connect/Block/Adminhtml/Extension/Custom/Edit/Tab/Release.php
+END
+Depends.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Connect/Block/Adminhtml/Extension/Custom/Edit/Tab/Depends.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Connect/Block/Adminhtml/Extension/Custom/Edit/Tab/Abstract.php
+END
+Authors.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Connect/Block/Adminhtml/Extension/Custom/Edit/Tab/Authors.php
+END
+Grid.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Connect/Block/Adminhtml/Extension/Custom/Edit/Tab/Grid.php
+END

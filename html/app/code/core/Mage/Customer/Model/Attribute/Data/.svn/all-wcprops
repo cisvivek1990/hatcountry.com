@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data
+END
+Multiselect.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Multiselect.php
+END
+Hidden.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Hidden.php
+END
+Date.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Date.php
+END
+Textarea.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Textarea.php
+END
+Boolean.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Boolean.php
+END
+File.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/File.php
+END
+Select.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Select.php
+END
+Postcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Postcode.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Image.php
+END
+Multiline.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Multiline.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Abstract.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/Model/Attribute/Data/Text.php
+END

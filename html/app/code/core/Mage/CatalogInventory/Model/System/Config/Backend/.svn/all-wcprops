@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogInventory/Model/System/Config/Backend
+END
+Minqty.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogInventory/Model/System/Config/Backend/Minqty.php
+END
+Qtyincrements.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogInventory/Model/System/Config/Backend/Qtyincrements.php
+END
+Minsaleqty.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogInventory/Model/System/Config/Backend/Minsaleqty.php
+END

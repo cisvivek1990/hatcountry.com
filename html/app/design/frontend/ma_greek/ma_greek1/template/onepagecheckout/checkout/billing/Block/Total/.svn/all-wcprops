@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Total
+END
+Tax.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Total/Tax.php
+END
+Nominal.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Total/Nominal.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Total/Default.php
+END

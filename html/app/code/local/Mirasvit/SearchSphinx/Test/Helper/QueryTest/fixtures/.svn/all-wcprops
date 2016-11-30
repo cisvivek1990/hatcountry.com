@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Test/Helper/QueryTest/fixtures
+END
+synonyms.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Test/Helper/QueryTest/fixtures/synonyms.yaml
+END
+stopwords.yaml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Test/Helper/QueryTest/fixtures/stopwords.yaml
+END

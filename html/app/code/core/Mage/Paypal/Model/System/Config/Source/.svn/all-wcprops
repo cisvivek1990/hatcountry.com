@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source
+END
+YesnoShortcut.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/YesnoShortcut.php
+END
+BuyerCountry.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/BuyerCountry.php
+END
+PaymentActions.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/PaymentActions.php
+END
+BmlPosition.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/BmlPosition.php
+END
+Logo.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/Logo.php
+END
+RequireBillingAddress.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/RequireBillingAddress.php
+END
+UrlMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/UrlMethod.php
+END
+FetchingSchedule.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/FetchingSchedule.php
+END
+BmlSize.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/BmlSize.php
+END
+MerchantCountry.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/MerchantCountry.php
+END
+AuthorizationAmounts.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Model/System/Config/Source/AuthorizationAmounts.php
+END

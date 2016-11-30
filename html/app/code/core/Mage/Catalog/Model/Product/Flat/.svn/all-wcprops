@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Flat
+END
+Flag.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Flat/Flag.php
+END
+Indexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Flat/Indexer.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Product/Flat/Observer.php
+END

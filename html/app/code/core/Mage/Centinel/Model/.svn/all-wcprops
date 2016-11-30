@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Centinel/Model
+END
+Api.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Centinel/Model/Api.php
+END
+Service.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Centinel/Model/Service.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Centinel/Model/Session.php
+END
+StateAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Centinel/Model/StateAbstract.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Centinel/Model/Config.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Centinel/Model/Observer.php
+END

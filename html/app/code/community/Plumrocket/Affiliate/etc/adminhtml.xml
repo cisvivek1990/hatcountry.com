@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<config>
+	<menu>
+		<plumrocket>
+			<title>Plumrocket</title>
+			<sort_order>80</sort_order>
+            <children>
+				<affiliate module="affiliate">
+					<title>Affiliate Programs</title>
+					<sort_order>260</sort_order>
+					<children>
+					<affiliate_list module="affiliate">
+							<title>Manage Affiliate Programs</title>
+							<sort_order>0</sort_order>
+							<action>adminhtml/affiliate_affiliate/index</action>
+						</affiliate_list>
+						<configuration module="affiliate">
+							<title>Configuration</title>
+							<sort_order>2</sort_order>
+							<action>adminhtml/system_config/edit/section/affiliate</action>
+						</configuration>
+					</children>
+				</affiliate>
+			</children>
+		</plumrocket>
+	</menu>
+	<acl>
+		<resources>
+			<admin>
+				<children>
+					<system>
+						<children>
+							<config>
+								<children>
+									<affiliate translate="title" module="affiliate">
+										<title>Affiliate Section</title>
+									</affiliate>
+								</children>
+							</config>
+						</children>
+					</system>
+					<plumrocket>
+						<title>Plumrocket</title>
+						<sort_order>80</sort_order>
+						<children>
+							<affiliate translate="title" module="affiliate">
+								<title>Affiliate Programs</title>
+								<sort_order>260</sort_order>
+								<children>
+									<affiliate_list translate="title">
+											<title>Manage Affiliate Programs</title>
+										<sort_order>0</sort_order>
+									</affiliate_list>
+									<configuration translate="title">
+										<title>Configuration</title>
+										<sort_order>2</sort_order>
+									</configuration>
+								</children>
+						   </affiliate>
+						</children>
+					</plumrocket>
+				</children>
+			</admin>	
+		</resources>
+	</acl>
+	<layout>
+		<updates>
+			<affiliate>
+			    <file>affiliate.xml</file>
+			</affiliate>
+		</updates>
+	</layout>
+</config>

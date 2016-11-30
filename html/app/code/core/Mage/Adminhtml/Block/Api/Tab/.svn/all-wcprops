@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Api/Tab
+END
+Rolesedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Api/Tab/Rolesedit.php
+END
+Roleinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Api/Tab/Roleinfo.php
+END
+Userroles.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Api/Tab/Userroles.php
+END
+Rolesusers.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/Api/Tab/Rolesusers.php
+END

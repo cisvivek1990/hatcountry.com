@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchIndex/Model
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchIndex/Model/Config.php
+END
+Engine.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchIndex/Model/Engine.php
+END
+Index.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchIndex/Model/Index.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchIndex/Model/Observer.php
+END

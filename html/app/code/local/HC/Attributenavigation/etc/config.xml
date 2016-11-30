@@ -1,0 +1,17 @@
+<config>
+    <modules>
+        <HC_Attributenavigation>
+            <version>0.1.0</version>
+        </HC_Attributenavigation>
+    </modules>
+    <global>
+        <blocks>
+            <!-- rewrites Mage_Catalog_Block_Layer_View -->
+            <catalog>
+                <rewrite>
+                    <layer_view>HC_Attributenavigation_Block_Layer_View</layer_view>
+                </rewrite>
+            </catalog>
+        </blocks>
+    </global>
+</config>

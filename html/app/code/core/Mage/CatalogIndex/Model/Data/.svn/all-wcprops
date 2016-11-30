@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogIndex/Model/Data
+END
+Simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogIndex/Model/Data/Simple.php
+END
+Configurable.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogIndex/Model/Data/Configurable.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogIndex/Model/Data/Abstract.php
+END
+Grouped.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogIndex/Model/Data/Grouped.php
+END
+Virtual.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogIndex/Model/Data/Virtual.php
+END

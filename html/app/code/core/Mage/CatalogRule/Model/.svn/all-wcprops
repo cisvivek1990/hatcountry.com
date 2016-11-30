@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogRule/Model
+END
+Flag.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogRule/Model/Flag.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogRule/Model/Observer.php
+END
+Rule.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/CatalogRule/Model/Rule.php
+END

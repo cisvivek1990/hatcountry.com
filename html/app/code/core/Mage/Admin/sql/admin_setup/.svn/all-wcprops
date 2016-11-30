@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/sql/admin_setup
+END
+mysql4-upgrade-1.5.9.9-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/sql/admin_setup/mysql4-upgrade-1.5.9.9-1.6.0.0.php
+END
+mysql4-install-0.7.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/sql/admin_setup/mysql4-install-0.7.0.php
+END
+mysql4-upgrade-0.7.0-0.7.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/sql/admin_setup/mysql4-upgrade-0.7.0-0.7.1.php
+END
+mysql4-upgrade-0.7.1-0.7.2.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/sql/admin_setup/mysql4-upgrade-0.7.1-0.7.2.php
+END
+install-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/sql/admin_setup/install-1.6.0.0.php
+END
+upgrade-1.6.0.0-1.6.1.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/sql/admin_setup/upgrade-1.6.0.0-1.6.1.0.php
+END
+upgrade-1.6.1.0-1.6.1.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/sql/admin_setup/upgrade-1.6.1.0-1.6.1.1.php
+END

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <HC_Adminform>
+            <version>1.0.0</version>
+        </HC_Adminform>
+    </modules>
+
+    <global>
+        <blocks>
+            <hc_adminform>
+                <class>HC_Adminform_Block</class>
+            </hc_adminform>
+        </blocks>
+
+        <helpers>
+            <hc_adminform>
+                <class>HC_Adminform_Helper</class>
+            </hc_adminform>
+        </helpers>
+        <models>
+            <hc_adminform>
+                <class>HC_Adminform_Model</class>
+                <resourceModel>hc_adminform_mysql4</resourceModel>
+            </hc_adminform>
+            <hc_adminform_mysql4>
+                <class>HC_Adminform_Model_Mysql4</class>
+            </hc_adminform_mysql4>
+        </models>
+        <resources>
+            <hc_adminform_setup>
+                <setup>
+                    <module>HC_Adminform</module>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </hc_adminform_setup>
+            <hc_adminform_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </hc_adminform_write>
+            <hc_adminform_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </hc_adminform_read>
+        </resources>
+    </global>
+
+    <admin>
+        <routers>
+            <adminhtml>
+                <args>
+                    <modules>
+                        <hc_adminform after="Mage_Adminhtml">HC_Adminform_Adminhtml</hc_adminform>
+                    </modules>
+                </args>
+            </adminhtml>
+        </routers>
+    </admin>
+
+    <adminhtml>
+        <layout>
+            <updates>
+                <hc_adminform>
+                    <file>hc_adminform.xml</file>
+                </hc_adminform>
+            </updates>
+        </layout>
+        <translate>
+            <modules>
+                <HC_Adminform>
+                    <files>
+                        <default>HC_Adminform.csv</default>
+                    </files>
+                </HC_Adminform>
+            </modules>
+        </translate>
+    </adminhtml>
+
+</config>

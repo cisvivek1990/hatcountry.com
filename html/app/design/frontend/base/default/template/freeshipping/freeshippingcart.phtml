@@ -1,0 +1,22 @@
+    <?php if($this->isCartNotEmpty()) {
+        $minimum = $this->getMinAmount();
+        $title = $this->getLabel();
+        $remining = $this->getRemainingAmount($minimum);
+
+        if($remining): ?>
+            <div class="block-login free-shipping-cart">
+                <div id="free-shipping-label" class="block-title">
+                <p class="empty a-center">Spend over <?php echo '$' . $minimum; ?>
+                        or only <?php echo $remining; ?> more
+                        to receive <strong><?php echo $title; ?></strong>.</p>
+            </div>
+        </div>
+    <?php else: ?>
+            <div class="block-login free-shipping-cart">
+                <div id="free-shipping-label" class="block-title">
+                <p class="block-subtitle a-center">You have spent over <?php echo '$' . $minimum; ?> and received  <strong><?php echo $title; ?></strong>.**.</p>
+            </div>
+        </div>
+    <?php endif; ?>
+
+    <?php } ?>

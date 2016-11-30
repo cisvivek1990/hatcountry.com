@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Core/Model/Message
+END
+Error.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Core/Model/Message/Error.php
+END
+Collection.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Core/Model/Message/Collection.php
+END
+Notice.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Core/Model/Message/Notice.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Core/Model/Message/Abstract.php
+END
+Warning.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Core/Model/Message/Warning.php
+END
+Success.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Core/Model/Message/Success.php
+END

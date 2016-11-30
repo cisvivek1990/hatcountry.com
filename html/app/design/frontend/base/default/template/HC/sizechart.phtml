@@ -1,0 +1,59 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: kbordyug
+ * Date: 3/10/2015
+ * Time: 5:33 PM
+ */
+
+$_product = $this->getProduct();
+$size_chart = $_product->getAttributeText('size_chart_template');
+if ($size_chart) {
+    ?>
+
+    <div class="clearer"></div>
+    <br>
+    <div class="size-chart"><a href="#size-chart" class="button"><span class="sizechart-button"><span class="size-chart-button-justify  fa-area-chart"></span>Size Chart </span><span class="size-chart-button-justify fa-align-justifyFilter"></span></a>
+    </div>
+    <div style="display:none;">
+        <div id="size-chart">
+            <?php echo Mage::app()->getLayout()->createBlock('cms/block')->setBlockId($_product->getAttributeText('size_chart_template'))->toHtml(); ?>
+        </div>
+    </div>
+    <script type="text/javascript">
+        jQuery(document).ready(function () {
+            jQuery("a[href='#size-chart']").fancybox({
+                padding: 40,
+                margin: 20,
+                type: 'inline',
+                autoWidth : true,
+                autoSize : false,
+                autoCenter : true,
+                helpers: {
+                    overlay: {
+                        showEarly: true
+                    }
+                },
+                afterLoad : function(data){
+                    var height = $jq(window).height() * 0.60;
+                    data.height = height;
+
+                    var class_ = 'top-indent-sizechart';
+
+                    var menuBlock = $jq('.nav-container-fix');
+                    var target = $jq(".fancybox-wrap");
+
+                    if(menuBlock.length > 0){
+                        target.addClass(class_);
+                    }
+                    else {
+                        target.removeClass(class_);
+                    }
+                },
+               
+            });
+        });
+    </script>
+<?php } ?>
+<br>
+<div class="clearer"></div>

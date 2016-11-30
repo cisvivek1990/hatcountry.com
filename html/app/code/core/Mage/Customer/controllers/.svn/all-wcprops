@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/controllers
+END
+AddressController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/controllers/AddressController.php
+END
+AccountController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/controllers/AccountController.php
+END
+ReviewController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Customer/controllers/ReviewController.php
+END

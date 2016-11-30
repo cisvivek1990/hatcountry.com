@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Indexer/Price
+END
+Configurable.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Indexer/Price/Configurable.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Indexer/Price/Interface.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Indexer/Price/Default.php
+END
+Grouped.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Product/Indexer/Price/Grouped.php
+END

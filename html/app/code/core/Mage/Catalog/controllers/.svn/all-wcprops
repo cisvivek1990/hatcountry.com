@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/controllers
+END
+IndexController.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/controllers/IndexController.php
+END
+CategoryController.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/controllers/CategoryController.php
+END
+ProductController.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/controllers/ProductController.php
+END

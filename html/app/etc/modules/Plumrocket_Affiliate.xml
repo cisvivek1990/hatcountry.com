@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Plumrocket_Affiliate>
+      <active>true</active>
+      <codePool>community</codePool>
+      <version>1.6.5</version>
+      <name>Plumrocket Affiliate Programs</name>
+      <depends>
+        <Plumrocket_Base />
+      </depends>
+    </Plumrocket_Affiliate>
+  </modules>
+</config>

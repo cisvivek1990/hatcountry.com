@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <HC_MilitaryShipping>
+            <active>true</active>
+            <codePool>local</codePool>
+        </HC_MilitaryShipping>
+    </modules>
+</config>

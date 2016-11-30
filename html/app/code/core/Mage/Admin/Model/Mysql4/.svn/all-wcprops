@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Mysql4
+END
+Rules.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Mysql4/Rules.php
+END
+User.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Mysql4/User.php
+END
+Acl.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Mysql4/Acl.php
+END
+Role.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Mysql4/Role.php
+END
+Roles.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Admin/Model/Mysql4/Roles.php
+END

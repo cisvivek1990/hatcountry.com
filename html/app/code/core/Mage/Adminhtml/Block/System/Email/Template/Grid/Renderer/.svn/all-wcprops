@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/System/Email/Template/Grid/Renderer
+END
+Action.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/System/Email/Template/Grid/Renderer/Action.php
+END
+Sender.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/System/Email/Template/Grid/Renderer/Sender.php
+END
+Type.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Block/System/Email/Template/Grid/Renderer/Type.php
+END

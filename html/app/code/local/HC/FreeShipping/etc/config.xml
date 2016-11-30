@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<HC_FreeShipping>
+			<version>1.0.0</version>
+		</HC_FreeShipping>
+	</modules>
+
+	<global>
+		<blocks>
+			<freeshipping>
+				<class>HC_FreeShipping_Block</class>
+			</freeshipping>
+		</blocks>
+    </global>
+	<frontend>
+		<routers>
+			<freeshipping>
+				<use>standard</use>
+				<args>
+					<module>HC_FreeShipping</module>
+					<frontName>freeshipping</frontName>
+				</args>
+			</freeshipping>
+		</routers>
+
+	</frontend>
+</config>

@@ -1,0 +1,134 @@
+<?php
+/*
+
+Plumrocket Inc.
+
+NOTICE OF LICENSE
+
+This source file is subject to the End-user License Agreement
+that is available through the world-wide-web at this URL:
+http://wiki.plumrocket.net/wiki/EULA
+If you are unable to obtain it through the world-wide-web, please
+send an email to support@plumrocket.com so we can send you a copy immediately.
+
+DISCLAIMER
+
+Do not edit or add to this file
+
+@package	Plumrocket_Rss_Generator-v1.4.x
+@copyright	Copyright (c) 2013 Plumrocket Inc. (http://www.plumrocket.com)
+@license	http://wiki.plumrocket.net/wiki/EULA  End-user License Agreement
+ 
+*/
+?>
+<table width="100%">
+<tr>
+<td>
+<div>
+<ul class="messages">
+    <li class="notice-msg sizer">
+        <ul>
+            <li>Press "Refresh" if code is not displayed in text areas. <button onclick="initCodes()" type="button" class="scalable" style="float: right;"><span>Refresh</span></button></li>
+        </ul>
+    </li>
+</ul>
+</div>
+</td>
+<td width="250" style="width:250px" rowspan="2">
+	<div id="df-seetags" style="text-align: center;">
+		<a id="img-tags" href="http://wiki.plumrocket.com/wiki/Rss_Feed_Generator_Tags" target="_blank"></a>
+		<a href="http://wiki.plumrocket.com/wiki/Rss_Feed_Generator_Tags" target="_blank">Click here</a> to see full list<br /> of data feed tags.
+	</div>
+</td>
+</tr>
+<tr>
+<td>
+<div class="code_block">
+<h4>Header:</h4>
+<textarea name="code_header" id="code_header">
+<?php echo htmlentities($this->getCodeHeader()); ?>
+</textarea>
+</div>
+
+<div class="code_item">
+<h4>Item Element:</h4>
+<textarea name="code_item" id="code_item">
+<?php echo htmlentities($this->getCodeItem()); ?>
+</textarea>
+</div>
+
+<div class="code_block">
+<h4>Footer:</h4>
+<textarea name="code_footer" id="code_footer">
+<?php echo htmlentities($this->getCodeFooter()); ?>
+</textarea>
+</div>
+</td>
+</tr>
+</table>
+
+<script>
+var headerEditor = CodeMirror.fromTextArea(document.getElementById("code_header"), {
+	mode: {name: "xml", alignCDATA: true},
+	lineNumbers: true,
+	extraKeys: {
+		"'>'": function(cm) { cm.closeTag(cm, '>'); },
+		"'/'": function(cm) { cm.closeTag(cm, '/'); }
+	},
+	onChange: updateHeader
+});
+
+var itemEditor = CodeMirror.fromTextArea(document.getElementById("code_item"), {
+	mode: {name: "xml", alignCDATA: true},
+	lineNumbers: true,
+	extraKeys: {
+		"'>'": function(cm) { cm.closeTag(cm, '>'); },
+		"'/'": function(cm) { cm.closeTag(cm, '/'); }
+	},
+	onChange: updateItem
+});
+
+var footerEditor = CodeMirror.fromTextArea(document.getElementById("code_footer"), {
+	mode: {name: "xml", alignCDATA: true},
+	lineNumbers: true,
+	extraKeys: {
+		"'>'": function(cm) { cm.closeTag(cm, '>'); },
+		"'/'": function(cm) { cm.closeTag(cm, '/'); }
+	},
+	onChange: updateFooter
+});
+
+document.getElementById('edit_tabs_editor_section').onclick = function() {
+	setTimeout(initCodes, 500);
+}
+
+function initCodes() {
+	headerEditor.refresh();
+	itemEditor.refresh();
+	footerEditor.refresh();
+}
+
+<?php if ($this->getRequest()->getParam('active_tab', 'general_section') == 'editor_section') { ?>
+	setTimeout(initCodes, 1000);
+<?php } ?>
+  
+function updateHeader() {
+	document.getElementById('code_header').value = headerEditor.getValue();
+}
+
+function updateItem() {
+	document.getElementById('code_item').value = itemEditor.getValue();
+}
+
+function updateFooter() {
+	document.getElementById('code_footer').value = footerEditor.getValue();
+}
+
+baseUrl = "<?php echo Mage::helper('datagenerator')->getBaseUrl(); ?>";
+document.getElementById("note_url_key").style.width = "98%";
+ajaxUrl = "<?php echo $this->getUrl('*/*/template'); ?>";
+loaderImg = "<?php echo $this->getSkinUrl('js/plumrocket/datagenerator/img/ajax-loader.gif'); ?>";
+
+var nodes = <?php echo json_encode(Mage::helper('datagenerator')->getAttributes()); ?>
+      
+</script>

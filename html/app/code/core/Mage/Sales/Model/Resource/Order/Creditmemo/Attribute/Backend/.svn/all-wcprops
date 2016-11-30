@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Resource/Order/Creditmemo/Attribute/Backend
+END
+Parent.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Resource/Order/Creditmemo/Attribute/Backend/Parent.php
+END
+Child.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Sales/Model/Resource/Order/Creditmemo/Attribute/Backend/Child.php
+END

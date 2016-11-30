@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/ImportExport/Model
+END
+Import.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/ImportExport/Model/Import.php
+END
+Export.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/ImportExport/Model/Export.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/ImportExport/Model/Abstract.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/ImportExport/Model/Config.php
+END

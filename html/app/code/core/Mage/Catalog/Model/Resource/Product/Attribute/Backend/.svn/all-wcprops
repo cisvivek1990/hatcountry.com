@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend
+END
+Urlkey.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend/Urlkey.php
+END
+Groupprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend/Groupprice.php
+END
+Media.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend/Media.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend/Image.php
+END
+Tierprice.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Product/Attribute/Backend/Tierprice.php
+END

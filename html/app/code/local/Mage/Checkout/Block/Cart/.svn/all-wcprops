@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Cart
+END
+Crosssell.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Cart/Crosssell.php
+END
+Sidebar.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Cart/Sidebar.php
+END
+Shipping.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Cart/Shipping.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Cart/Abstract.php
+END
+Coupon.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Cart/Coupon.php
+END
+Minicart.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Cart/Minicart.php
+END
+Totals.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Checkout/Block/Cart/Totals.php
+END

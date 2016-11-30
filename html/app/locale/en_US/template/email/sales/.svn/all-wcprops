@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales
+END
+invoice_new_guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/invoice_new_guest.html
+END
+order_update.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/order_update.html
+END
+order_new.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/order_new.html
+END
+order_update_guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/order_update_guest.html
+END
+shipment_update.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/shipment_update.html
+END
+creditmemo_update.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/creditmemo_update.html
+END
+order_new_guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/order_new_guest.html
+END
+invoice_update.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/invoice_update.html
+END
+shipment_new.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/shipment_new.html
+END
+shipment_update_guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/shipment_update_guest.html
+END
+creditmemo_new.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/creditmemo_new.html
+END
+creditmemo_update_guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/creditmemo_update_guest.html
+END
+invoice_new.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/invoice_new.html
+END
+invoice_update_guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/invoice_update_guest.html
+END
+shipment_new_guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/shipment_new_guest.html
+END
+creditmemo_new_guest.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/locale/en_US/template/email/sales/creditmemo_new_guest.html
+END

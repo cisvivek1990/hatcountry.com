@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/112763/hatcountry-magento/test/app/locale/en_US/template/email/feedexport/generation
+END
+success.html
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/112763/hatcountry-magento/test/app/locale/en_US/template/email/feedexport/generation/success.html
+END
+fail.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/112763/hatcountry-magento/test/app/locale/en_US/template/email/feedexport/generation/fail.html
+END

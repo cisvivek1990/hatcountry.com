@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend
+END
+Serialized.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Serialized.php
+END
+Datetime.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Datetime.php
+END
+Store.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Store.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Array.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Interface.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Abstract.php
+END
+Default.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Default.php
+END
+Increment.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Eav/Model/Entity/Attribute/Backend/Increment.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Compiler/etc
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Compiler/etc/config.xml
+END
+adminhtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Compiler/etc/adminhtml.xml
+END
+compilation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Compiler/etc/compilation.xml
+END

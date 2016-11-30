@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/progress
+END
+payment.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/progress/payment.phtml
+END
+billing.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/progress/billing.phtml
+END
+shipping.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/progress/shipping.phtml
+END
+shipping_method.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/progress/shipping_method.phtml
+END

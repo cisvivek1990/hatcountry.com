@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/oauth/authorize
+END
+reject.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/oauth/authorize/reject.phtml
+END
+confirm.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/oauth/authorize/confirm.phtml
+END
+button-simple.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/oauth/authorize/button-simple.phtml
+END
+reject-simple.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/oauth/authorize/reject-simple.phtml
+END
+confirm-simple.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/oauth/authorize/confirm-simple.phtml
+END
+head-simple.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/oauth/authorize/head-simple.phtml
+END
+button.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/oauth/authorize/button.phtml
+END

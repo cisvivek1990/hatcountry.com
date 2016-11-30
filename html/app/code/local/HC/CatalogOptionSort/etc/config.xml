@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <HC_CatalogOptionSort>
+            <version>1.0.0</version>
+        </HC_CatalogOptionSort>
+    </modules>
+    <global>
+        <blocks>
+            <catalog>
+                <rewrite>
+                    <product_view_type_configurable>HC_CatalogOptionSort_Block_Product_View_Type_Configurable</product_view_type_configurable>
+                </rewrite>
+            </catalog>
+        </blocks>
+    </global>
+    <frontend>
+        <routers>
+            <catalogoptionsort>
+                <use>standard</use>
+                <args>
+                    <module>HC_CatalogOptionSort</module>
+                    <frontName>CatalogOptionSort</frontName>
+                </args>
+            </catalogoptionsort>
+        </routers>
+    </frontend>
+</config>

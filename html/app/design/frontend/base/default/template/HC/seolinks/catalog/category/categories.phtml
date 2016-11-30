@@ -1,0 +1,4 @@
+<?php $category = Mage::registry('current_category');
+if ($category) { ?>
+    <link rel="canonical" href="<?php echo Mage::getUrl('', array('_secure' => true)) . $category->getUrlPath(); ?>"/>
+<?php } ?>

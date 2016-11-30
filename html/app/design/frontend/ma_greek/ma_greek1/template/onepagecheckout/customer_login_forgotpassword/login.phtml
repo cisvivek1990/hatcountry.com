@@ -1,0 +1,95 @@
+<?php if (!Mage::getSingleton('customer/session')->isLoggedIn()){?>
+<div id="onepagecheckout_loginbox"  class='customer_login'>
+    <div class="page-title">
+        <span><?php echo $this->__('Login to your Account') ?></span>
+    </div>
+    <?php
+        $login_url	= $this->getUrl('*/load/login', array('_secure'=>(!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS']==='on')));
+        $http_mode	= (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS']==='on');
+        if($http_mode)$login_url	= str_replace('http:', 'https:', $login_url);  
+    ?>
+    <form method="post" id="login-form" action="<?php echo $login_url ?>" autocomplete="on">
+        <div class="boxcontent form_fields">
+			<div class='full field'>
+				<label>
+					<em>*</em><?php echo $this->__('Email Address') ?>
+				</label>
+				
+				<div class="input-box">
+					<input type="text" name="login[username]" value="<?php echo $this->htmlEscape($this->getUsername()) ?>" id="email" class="input-text required-entry validate-email" title="<?php echo $this->__('Email Address') ?>" />
+				</div>
+				<div class="email_error error"></div>
+			</div>
+			<div class='full field'>
+				<label>
+					<em>*</em><?php echo $this->__('Password') ?>
+				</label>
+				
+				<div class="input-box">
+					<input type="password" name="login[password]" class="input-text required-entry validate-password" id="pass" title="<?php echo $this->__('Password') ?>" />
+				</div>
+				<div class="pass_error"></div>
+			</div>
+			<div class="error-msg error" style="display: none;"></div>
+        </div>
+        <div class="buttons-set">
+            <a href="javascript:void(0);" class="cusomer_forgot_password_link f-left"><?php echo $this->__('Forgot Your Password?') ?></a>
+            <button type="button" onclick="customajaxLogIn();" class="button" title="<?php echo $this->__('Login') ?>" name="send"><span><span><?php echo $this->__('Login') ?></span></span></button>
+        </div>
+    </form>
+    <script type="text/javascript">
+    //<![CDATA[
+        var loginForm = new VarienForm('login-form', true);
+    //]]>
+    
+   
+    function customajaxLogIn() {
+    $jq('.error-msg').hide();
+    //var check = $jq('#use-redirect').val();
+    var dataForm = new VarienForm('ajax-login-form', true);
+    var email1 = $jq('#email').val();
+    var emailReg = /^[A-Z0-9._%+-]+@([A-Z0-9-]+\.)+[A-Z]{2,4}$/i;
+    
+    if (!email1) {
+	$jq('.email_error').html('Enter a email id!');
+	return false;
+    }
+    if (!emailReg.test(email1)) {
+	$jq('.email_error').html('Enter a valid email id!');
+	return false;
+    }
+    $jq('.email_error').html('');
+    var pass1   = $jq('#pass').val();
+   if (!pass1) {
+    $jq('.pass_error').html('Enter a Password!');
+    return false;
+   }
+   $jq('.pass_error').html('');
+    //alert('inn');
+        //$jq('.ajax-img').show();
+        $jq.ajax({
+            url         : $jq('#base-url').val() + "ajaxlogin/login/loginPost/",
+            type        : "POST",
+            data        : {
+                email   : email1,
+                pass    : pass1
+            },
+            dataType    : "json",
+            success     : function(response) {
+                if(response.error == false) {
+   
+                       /// closeLoginForm();
+                        window.location = window.location.href;
+
+                } else {
+                    //$jq('.ajax-img').hide();
+                    $jq('.error-msg').html(response.message).show(300);
+                }
+            }
+        });
+
+}
+    
+    </script>
+</div>
+<?php }?>

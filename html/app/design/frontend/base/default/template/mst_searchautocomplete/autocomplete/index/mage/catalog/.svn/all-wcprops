@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/root/!svn/ver/112709/hatcountry-magento/test/app/design/frontend/base/default/template/mst_searchautocomplete/autocomplete/index/mage/catalog
+END
+category.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/root/!svn/ver/112709/hatcountry-magento/test/app/design/frontend/base/default/template/mst_searchautocomplete/autocomplete/index/mage/catalog/category.phtml
+END
+product.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/root/!svn/ver/112709/hatcountry-magento/test/app/design/frontend/base/default/template/mst_searchautocomplete/autocomplete/index/mage/catalog/product.phtml
+END
+attribute.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/root/!svn/ver/112709/hatcountry-magento/test/app/design/frontend/base/default/template/mst_searchautocomplete/autocomplete/index/mage/catalog/attribute.phtml
+END

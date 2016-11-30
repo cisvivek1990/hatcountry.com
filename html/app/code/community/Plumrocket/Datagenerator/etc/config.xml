@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<config>
+
+	<modules>
+		<Plumrocket_Datagenerator>
+			<version>1.6.0</version>
+			<wiki>http://wiki.plumrocket.com/wiki/Magento_RSS_Feed_Generator_Extension_v1.x</wiki>
+		</Plumrocket_Datagenerator>
+	</modules>
+	
+	<global>
+		<rewrite>
+			<datagenerator>
+				<from><![CDATA[#^/rss/(.*)#]]></from>
+				<to>/datagenerator/index/index/address/$1/</to>
+			</datagenerator>
+		</rewrite>
+		
+		<helpers>
+			<datagenerator>
+				<class>Plumrocket_Datagenerator_Helper</class>
+			</datagenerator>
+		</helpers>   
+
+		<blocks>
+			<datagenerator>
+				<class>Plumrocket_Datagenerator_Block</class>
+			</datagenerator>
+		</blocks>
+		
+		<models>
+			<datagenerator>
+				<class>Plumrocket_Datagenerator_Model</class>
+				<resourceModel>datagenerator_mysql4</resourceModel>
+			</datagenerator>
+			
+			<datagenerator_mysql4>
+				<class>Plumrocket_Datagenerator_Model_Mysql4</class>
+				<entities>
+					<template>
+						<table>datagenerator_templates</table>
+					</template>
+				</entities>
+			</datagenerator_mysql4>
+		</models>
+		
+		<resources>
+			<datagenerator_setup>
+				<setup>
+					<module>Plumrocket_Datagenerator</module>
+				</setup>
+				<connection>
+					<use>core_setup</use>
+				</connection>
+			</datagenerator_setup>
+			<datagenerator_write>
+				<connection>
+					<use>core_write</use>
+				</connection>
+			</datagenerator_write>
+			<datagenerator_read>
+				<connection>
+					<use>core_read</use>
+				</connection>
+			</datagenerator_read>
+		</resources>	
+		
+		<translate>
+            <modules>
+                <Plumrocket_Datagenerator>
+                    <files>
+                        <default>Plumrocket_Datagenerator.csv</default>
+                    </files>
+                </Plumrocket_Datagenerator>
+            </modules>
+        </translate> 
+   </global> 
+   
+   <frontend>
+		<routers>
+			<datagenerator>
+				<use>standard</use>
+				<args>
+					<module>Plumrocket_Datagenerator</module>
+					<frontName>datagenerator</frontName>
+				</args>
+			</datagenerator>
+		</routers>
+	</frontend>
+   
+   <admin>
+		<routers>
+			<datagenerator>
+				<use>admin</use>
+				<args>
+					<module>Plumrocket_Datagenerator</module>
+					<frontName>datagenerator</frontName>
+				</args>
+			</datagenerator>
+		</routers>
+	</admin>
+	
+	<adminhtml>
+		<layout>
+			<updates>
+				<datagenerator>
+					<file>datagenerator.xml</file>
+				</datagenerator>
+			</updates>
+		</layout>
+	</adminhtml>
+
+	<crontab>
+		<jobs>            
+			<plumrocket_datagenerator_cache>
+				<schedule><cron_expr>*/15 * * * *</cron_expr></schedule>
+				<run><model>datagenerator/cron::formCache</model></run>
+			</plumrocket_datagenerator_cache>
+		</jobs>
+	</crontab>
+	
+	<default>
+		<datagenerator>
+			<general>
+				<enable>0</enable>
+			</general>
+		</datagenerator>
+	</default>
+	
+</config> 

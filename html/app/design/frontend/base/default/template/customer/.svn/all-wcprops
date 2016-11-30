@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer
+END
+orders.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer/orders.phtml
+END
+address.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer/address.phtml
+END
+balance.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer/balance.phtml
+END
+wishlist.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer/wishlist.phtml
+END
+logout.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/customer/logout.phtml
+END

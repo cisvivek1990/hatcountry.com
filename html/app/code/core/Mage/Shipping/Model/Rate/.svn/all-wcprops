@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Shipping/Model/Rate
+END
+Result.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Shipping/Model/Rate/Result.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Shipping/Model/Rate/Abstract.php
+END
+Request.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Shipping/Model/Rate/Request.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/multishipping
+END
+addresses.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/multishipping/addresses.phtml
+END
+link.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/multishipping/link.phtml
+END
+billing.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/multishipping/billing.phtml
+END
+state.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/multishipping/state.phtml
+END
+shipping.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/multishipping/shipping.phtml
+END
+overview.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/multishipping/overview.phtml
+END
+success.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/multishipping/success.phtml
+END
+agreements.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/multishipping/agreements.phtml
+END

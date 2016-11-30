@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<HC_SortByNewest>
+			<version>0.1.0</version>
+		</HC_SortByNewest>
+	</modules>
+    <global>
+        <models />
+        <blocks />
+        <resources>
+            <sortbynewest_setup>
+                <setup>
+                    <module>HC_SortByNewest</module>
+                    <class>Mage_Catalog_Model_Resource_Eav_Mysql4_Setup</class>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </sortbynewest_setup>
+        </resources>
+        <extraconfig />
+        <helpers>
+            <sortbynewest>
+                <class>HC_SortByNewest_Helper</class>
+            </sortbynewest>
+        </helpers>
+    </global>
+    <admin>
+        <routers>
+            <HC_SortByNewest>
+                <use>admin</use>
+                <args>
+                    <module>HC_SortByNewest</module>
+                    <frontName>sortbynewest</frontName>
+                </args>
+            </HC_SortByNewest>
+        </routers>
+    </admin>
+    <adminhtml>
+        <acl>
+            <resources>
+                <all>
+                    <title>Allow Everything</title>
+                </all>
+                <admin>
+                    <children>
+                        <system>
+                            <children>
+                                <config>
+                                    <children>
+                                        <sortbynewest>
+                                            <title>sortbynewest - All</title>
+                                        </sortbynewest>
+                                    </children>
+                                </config>
+                            </children>
+                        </system>
+                    </children>
+                </admin>
+            </resources>
+        </acl>
+    </adminhtml>
+</config>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/sql/usa_setup
+END
+mysql4-upgrade-0.7.0-0.7.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/sql/usa_setup/mysql4-upgrade-0.7.0-0.7.1.php
+END
+install-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/sql/usa_setup/install-1.6.0.0.php
+END
+upgrade-1.6.0.0-1.6.0.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/sql/usa_setup/upgrade-1.6.0.0-1.6.0.1.php
+END
+upgrade-1.6.0.1-1.6.0.2.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/sql/usa_setup/upgrade-1.6.0.1-1.6.0.2.php
+END
+upgrade-1.6.0.2-1.6.0.3.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/sql/usa_setup/upgrade-1.6.0.2-1.6.0.3.php
+END

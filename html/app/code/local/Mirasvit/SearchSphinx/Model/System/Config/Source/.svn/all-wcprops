@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Model/System/Config/Source
+END
+Wildcard.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Model/System/Config/Source/Wildcard.php
+END
+SearchEngine.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Model/System/Config/Source/SearchEngine.php
+END
+GoogleSitelinksSearchBox.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Model/System/Config/Source/GoogleSitelinksSearchBox.php
+END
+MatchMode.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Model/System/Config/Source/MatchMode.php
+END
+SearchTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Model/System/Config/Source/SearchTemplate.php
+END

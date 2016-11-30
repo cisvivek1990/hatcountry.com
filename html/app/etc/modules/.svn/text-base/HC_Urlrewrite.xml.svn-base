@@ -1,0 +1,11 @@
+<config>
+    <modules>
+        <HC_Urlrewrite>
+            <active>true</active>
+            <codePool>local</codePool>
+            <depends>
+                <Mage_Catalog />
+            </depends>
+        </HC_Urlrewrite>
+    </modules>
+</config>

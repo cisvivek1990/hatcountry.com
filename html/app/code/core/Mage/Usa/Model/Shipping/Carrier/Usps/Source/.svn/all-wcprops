@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Usps/Source
+END
+Size.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Usps/Source/Size.php
+END
+Method.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Usps/Source/Method.php
+END
+Container.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Usps/Source/Container.php
+END
+Freemethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Usps/Source/Freemethod.php
+END
+Machinable.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Usps/Source/Machinable.php
+END

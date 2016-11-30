@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/root/!svn/ver/113538/hatcountry-magento/test/app/code/core/Mage/Paypal
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/Exception.php
+END
+UnavailableException.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Paypal/UnavailableException.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Order/Status
+END
+New.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Order/Status/New.php
+END
+Processing.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Order/Status/Processing.php
+END
+Newprocessing.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Order/Status/Newprocessing.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order
+END
+giftoptions.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/giftoptions.phtml
+END
+totals.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totals.phtml
+END
+totalbar.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/sales/order/totalbar.phtml
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Newsletter/sql/newsletter_setup
+END
+mysql4-upgrade-1.5.9.9-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Newsletter/sql/newsletter_setup/mysql4-upgrade-1.5.9.9-1.6.0.0.php
+END
+mysql4-install-0.7.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Newsletter/sql/newsletter_setup/mysql4-install-0.7.0.php
+END
+mysql4-install-0.8.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Newsletter/sql/newsletter_setup/mysql4-install-0.8.0.php
+END
+mysql4-upgrade-0.7.0-0.7.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Newsletter/sql/newsletter_setup/mysql4-upgrade-0.7.0-0.7.1.php
+END
+mysql4-upgrade-0.8.0-0.8.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Newsletter/sql/newsletter_setup/mysql4-upgrade-0.8.0-0.8.1.php
+END
+mysql4-upgrade-0.8.1-0.8.2.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Newsletter/sql/newsletter_setup/mysql4-upgrade-0.8.1-0.8.2.php
+END
+install-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Newsletter/sql/newsletter_setup/install-1.6.0.0.php
+END
+mysql4-upgrade-0.8.2-0.8.3.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Newsletter/sql/newsletter_setup/mysql4-upgrade-0.8.2-0.8.3.php
+END

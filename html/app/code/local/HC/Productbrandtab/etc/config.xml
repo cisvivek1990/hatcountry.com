@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<HC_Productbrandtab>
+			<version>1.0.0</version>
+		</HC_Productbrandtab>
+	</modules>
+
+	<global>
+        <blocks>
+            <productbrandtab>
+                <class>HC_Productbrandtab_Block</class>
+            </productbrandtab>
+        </blocks>
+        <helpers>
+            <productbrandtab>
+                <class>HC_Productbrandtab_Helper</class>
+            </productbrandtab>
+        </helpers>
+    </global>
+	<frontend>
+		<routers>
+			<HC_Productbrandtab>
+				<use>standard</use>
+				<args>
+					<module>HC_Productbrandtab</module>
+					<frontName>Productbrandtab</frontName>
+				</args>
+			</HC_Productbrandtab>
+		</routers>
+	</frontend>
+</config>

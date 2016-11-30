@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<HC_CompositeUrlRedirect>
+			<version>0.1.0</version>
+		</HC_CompositeUrlRedirect>
+	</modules>
+    <global>
+        <events>
+            <controller_action_predispatch>
+                <observers>
+                    <hc_compositeurlredirect_observer>
+                        <type>singleton</type>
+                        <class>HC_CompositeUrlRedirect_Model_Observer</class>
+                        <method>redirectComposite</method>
+                    </hc_compositeurlredirect_observer>
+                </observers>
+            </controller_action_predispatch>
+        </events>
+        <models />
+        <blocks />
+    </global>
+</config>

@@ -1,0 +1,16 @@
+<config>
+    <modules>
+        <HC_Urlrewrite>
+            <version>0.1.0</version>
+        </HC_Urlrewrite>
+    </modules>
+    <global>
+        <models>
+            <catalog>
+                <rewrite>
+                    <url>HC_Urlrewrite_Model_Url</url>
+                </rewrite>
+            </catalog>
+        </models>
+    </global>
+</config>

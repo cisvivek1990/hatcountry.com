@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<layout>
+
+	<adminhtml_affiliate_affiliate_index>
+		<reference name="content">
+			<block type="affiliate/adminhtml_affiliate_list" name="affiliate_list" />
+		</reference>
+	</adminhtml_affiliate_affiliate_index>
+
+	<adminhtml_affiliate_affiliate_edit>
+		<reference name="head">
+			<action method="addCss"><stylesheet>css/plumrocket/affiliate/affiliate.css</stylesheet></action>
+        </reference>
+		<reference name="content">
+			<block type="affiliate/adminhtml_affiliate_edit" name="affiliate_edit"/>
+		</reference>
+        <reference name="left">
+            <block type="affiliate/adminhtml_affiliate_edit_tabs" name="affiliate_edit_tabs">
+				<block type="affiliate/adminhtml_affiliate_edit_tabs_general" name="affiliate_edit_tabs_general" />
+                <action method="addTab"><name>general_section</name><block>affiliate_edit_tabs_general</block></action>
+                
+                <block type="affiliate/adminhtml_affiliate_edit_tabs_template" name="affiliate_edit_tabs_template" />
+                <action method="addTab"><name>template_section</name><block>affiliate_edit_tabs_template</block></action>
+			</block>
+        </reference>
+	</adminhtml_affiliate_affiliate_edit>
+
+	<adminhtml_affiliate_affiliate_new>
+		<reference name="head">
+			<action method="addCss"><stylesheet>css/plumrocket/affiliate/affiliate.css</stylesheet></action>
+        </reference>
+		<reference name="content">
+			<block type="affiliate/adminhtml_affiliate_new" name="affiliate_new"/>
+		</reference>
+        <reference name="left">
+            <block type="affiliate/adminhtml_affiliate_new_tabs" name="affiliate_new_tabs">
+				<block type="affiliate/adminhtml_affiliate_new_tabs_general" name="affiliate_new_tabs_general" />
+                <action method="addTab"><name>general_section</name><block>affiliate_new_tabs_general</block></action>
+			</block>
+        </reference>
+	</adminhtml_affiliate_affiliate_new>
+	
+</layout>
+
+
+
+

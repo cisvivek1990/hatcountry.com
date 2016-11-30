@@ -1,0 +1,30 @@
+/*Plumrocket Inc. 2014*/
+.adminhtml-affiliate-affiliate-new table.form-list .inline {padding-right: 40px;}
+.adminhtml-affiliate-affiliate-new table.form-list span.custom-label {padding-left: 5px; vertical-align: middle; font-weight: 700; line-height: 53px;}
+.adminhtml-affiliate-affiliate-new #affiliate_general_fieldset .label {padding-top: 24px !important;}
+.adminhtml-affiliate-affiliate-new .affilate-item {display: inline-block; width: 210px;}
+.adminhtml-affiliate-affiliate-new .affilate-item>input {margin-right: 5px;}
+
+.adminhtml-affiliate-affiliate-edit label[for=affiliate_postback_param_] {width: 200px !important; margin-right: 19px; display: inline-block; font-weight:700; font-size:14px;}
+
+
+.fieldset-wide .form-list td.value {
+	position: relative;
+}
+
+#affiliate_section_bodybegin_fb.fieldset-wide table {
+	height: 160px;
+}
+
+#affiliate_section_bodybegin_pj.fieldset-wide .form-list td.value img,
+#affiliate_section_bodybegin_fb.fieldset-wide .form-list td.value img {
+	position: absolute;
+	margin-left: 40px;
+}
+
+#affiliate_section_bodybegin_pj.fieldset-wide .form-list td.value input.input-text,
+#affiliate_section_bodybegin_fb.fieldset-wide .form-list td.value input.input-text,
+#affiliate_section_bodybegin_pj.fieldset-wide .form-list td.value .note,
+#affiliate_section_bodybegin_fb.fieldset-wide .form-list td.value .note {
+	width: 274px!important;
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0"?> 
+<config>
+	<acl>
+		<resources>
+			<admin>
+				<children>
+					<system>
+						<children>
+							<config>
+								<children>
+									<layerednavigation>
+										<title>Layered Navigation </title>
+									</layerednavigation>
+								</children>
+							</config>
+						</children>
+					</system>	
+					<HC translate="title" module="layerednavigation">
+						<title>HC</title>
+						<sort_order>71</sort_order>               
+						<children>
+							<layerednavigation translate="title" module="layerednavigation">
+								<title>Layered Navigation </title>
+								<sort_order>0</sort_order>
+								<children>
+									<configuration>
+										<title>Configuration</title>
+										<sort_order>1</sort_order>
+										<action>adminhtml/system_config/edit/section/layerednavigation</action>
+									</configuration>
+								</children>
+							</layerednavigation>
+						</children>
+					</HC>
+				</children>
+			</admin>
+        </resources>
+	</acl>
+</config>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/data/catalog_setup
+END
+data-install-1.6.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/data/catalog_setup/data-install-1.6.0.0.php
+END
+data-upgrade-1.6.0.0.12-1.6.0.0.13.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/data/catalog_setup/data-upgrade-1.6.0.0.12-1.6.0.0.13.php
+END
+data-upgrade-1.6.0.0.13-1.6.0.0.14.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/data/catalog_setup/data-upgrade-1.6.0.0.13-1.6.0.0.14.php
+END
+data-upgrade-1.6.0.0.4-1.6.0.0.5.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/data/catalog_setup/data-upgrade-1.6.0.0.4-1.6.0.0.5.php
+END
+data-upgrade-1.6.0.0.8-1.6.0.0.9.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/data/catalog_setup/data-upgrade-1.6.0.0.8-1.6.0.0.9.php
+END

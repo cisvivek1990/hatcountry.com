@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/info
+END
+banktransfer.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/info/banktransfer.phtml
+END
+default.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/info/default.phtml
+END
+purchaseorder.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/info/purchaseorder.phtml
+END
+checkmo.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/info/checkmo.phtml
+END

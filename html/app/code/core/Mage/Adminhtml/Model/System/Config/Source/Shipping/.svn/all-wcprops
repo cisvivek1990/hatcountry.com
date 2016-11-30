@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping
+END
+Allspecificcountries.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Allspecificcountries.php
+END
+Allowedmethods.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Allowedmethods.php
+END
+Allmethods.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Allmethods.php
+END
+Flatrate.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Flatrate.php
+END
+Taxclass.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Taxclass.php
+END
+Tablerate.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Adminhtml/Model/System/Config/Source/Shipping/Tablerate.php
+END

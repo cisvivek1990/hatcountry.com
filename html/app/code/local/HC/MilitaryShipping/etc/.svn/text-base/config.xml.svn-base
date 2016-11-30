@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<HC_MilitaryShipping>
+			<version>1.0.0</version>
+		</HC_MilitaryShipping>
+	</modules>
+
+	<global>
+		<models>
+			<hc_militaryshipping>
+				<class>HC_MilitaryShipping_Model</class>
+			</hc_militaryshipping>
+		</models>
+        <blocks>
+            <militaryshipping>
+                <class>HC_MilitaryShipping_Block</class>
+            </militaryshipping>
+        </blocks>
+    </global>
+	<frontend>
+		<routers>
+			<HC_MilitaryShipping>
+				<use>standard</use>
+				<args>
+					<module>HC_MilitaryShipping</module>
+					<frontName>MilitaryShipping</frontName>
+				</args>
+			</HC_MilitaryShipping>
+		</routers>
+	</frontend>
+</config>

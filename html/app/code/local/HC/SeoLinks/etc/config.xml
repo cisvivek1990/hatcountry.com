@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <HC_SeoLinks>
+            <version>1.0.0</version>
+        </HC_SeoLinks>
+    </modules>
+    
+    <global>
+        <blocks>
+            <hc_seolinks>
+                <class>HC_SeoLinks_Block</class>
+            </hc_seolinks>
+
+        </blocks>
+        <helpers>
+            <hc_seolinks>
+                <class>HC_SeoLinks_Helper</class>
+            </hc_seolinks>
+        </helpers>
+
+        <events>
+            <controller_action_layout_generate_xml_before>
+                <observers>
+                    <noindex>
+                        <type>singleton</type>
+                        <class>HC_SeoLinks_Model_Observer</class><!-- replace with your module name -->
+                        <method>changeRobots</method>
+                    </noindex>
+                </observers>
+            </controller_action_layout_generate_xml_before>
+        </events>
+    </global>
+    <frontend>
+        <layout>
+            <updates>
+                <hc_seolinks>
+                    <file>HC_seolinks.xml</file>
+                </hc_seolinks>
+            </updates>
+        </layout>
+        <routers>
+            <hc_seolinks>
+                <use>standard</use>
+                <args>
+                    <module>HC_SeoLinks</module>
+                    <frontName>hc_seolinks</frontName>
+                </args>
+            </hc_seolinks>
+        </routers>
+    </frontend>
+</config>

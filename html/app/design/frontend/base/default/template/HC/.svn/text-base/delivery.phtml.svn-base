@@ -1,0 +1,23 @@
+<?php  /* @  custom block */ ?>
+<?php /* @var $this Mage_Catalog_Block_Product_View_Abstract */ ?>
+<?php $infoArr = array(
+    '0-2 weeks' => array('orange', 'In</br>Stock', 'or','0-2 Week', 'Standard Delivery', '*Allow 2-3 business days for</br>picking.'),
+    '1-4 weeks' => array('dark-blue', '1-4</br>Weeks', 'db', '1-4 Week Delivery', '', '*Based on Demand & Availability'),
+    '4-8 weeks' => array('light-blue', 'Special</br>Order', 'lb','4-8 Week Deliver', 'Special Order - Production Item', '*This production item is is fabricate to</br>order by the manufacturer.'),
+) ?>
+<?php $_product = $this->getProduct() ?>
+<?php if($_product->getAttributeText('delivery_time')): ?>
+    <?php $i = $_product->getAttributeText('delivery_time') ?>
+
+    <div id="dev-time">
+        <div class="star <?php echo $infoArr[$i][0]?>">
+            <span><?php echo $infoArr[$i][1]?></span>
+        </div>
+        <div class="text <?php echo $infoArr[$i][2]?>">
+            <span><?php echo $infoArr[$i][3]?></span>
+            <p class="title"><?php echo $infoArr[$i][4]?></p>
+            <p class="sub"><?php echo $infoArr[$i][5]?></p>
+        </div>
+    </div>
+
+<?php endif;?>

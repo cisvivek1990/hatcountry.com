@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model
+END
+Api.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Api.php
+END
+Tag.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Tag.php
+END
+Route.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Route.php
+END
+Sorter.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Sorter.php
+END
+Layouts.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Layouts.php
+END
+Related.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Related.php
+END
+Sitemap.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Sitemap.php
+END
+Comment.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Comment.php
+END
+Status.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Status.php
+END
+Blog.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Blog.php
+END
+Post.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Post.php
+END
+Dateformat.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Dateformat.php
+END
+Cat.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Cat.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/community/AW/Blog/Model/Observer.php
+END

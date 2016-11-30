@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/root/!svn/ver/112444/hatcountry-magento/test/app/code/local/HC/Layerednavigation/etc
+END
+system.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/112444/hatcountry-magento/test/app/code/local/HC/Layerednavigation/etc/system.xml
+END
+config.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/112444/hatcountry-magento/test/app/code/local/HC/Layerednavigation/etc/config.xml
+END
+adminhtml.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/111850/hatcountry-magento/test/app/code/local/HC/Layerednavigation/etc/adminhtml.xml
+END

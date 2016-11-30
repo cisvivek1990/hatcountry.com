@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Paypal
+END
+Express.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Paypal/Express.php
+END
+Mecl.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Paypal/Mecl.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Info/Paypal/Abstract.php
+END

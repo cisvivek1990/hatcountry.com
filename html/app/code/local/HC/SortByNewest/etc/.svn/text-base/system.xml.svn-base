@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <tabs>
+        <sortbynewest translate="label" module="sortbynewest">
+            <label>Hat Country Extensions</label>
+            <sort_order>100</sort_order>
+        </sortbynewest>
+    </tabs>
+    <sections>
+        <sortbynewest translate="label" module="sortbynewest">
+            <label>Extensions Options</label>
+            <tab>sortbynewest</tab>
+            <sort_order>1000</sort_order>
+            <show_in_default>1</show_in_default>
+            <show_in_website>1</show_in_website>
+            <show_in_store>1</show_in_store>
+
+            <groups>
+                <sortbynewest_group translate="label" module="sortbynewest">
+                    <label>Options</label>
+                    <frontend_type>text</frontend_type>
+                    <sort_order>1000</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <fields>
+                        <sortbynewest_input translate="label">
+                            <label>Number of days to keep products as new arrivals : </label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>20</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                        </sortbynewest_input>
+                    </fields>
+                </sortbynewest_group>
+            </groups>
+        </sortbynewest>
+    </sections>
+</config>

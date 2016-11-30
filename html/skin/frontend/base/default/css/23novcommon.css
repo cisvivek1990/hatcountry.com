@@ -1,0 +1,316 @@
+.manufacturerColumn {
+    width: 25%;
+    float: left;
+}
+
+.manufacturerColumn .key {
+    padding: 4% 0 0 0;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+#shopping-cart-totals-table .summary-total, .summary-total + tr
+{
+    display: none;
+}
+
+#free-shipping-label {
+    padding: 10px;
+    font-size: 110%;
+    text-transform: none;
+    margin-bottom: 25px;
+    font-weight:  normal;
+    text-align: center;
+}
+
+.free-shipping-cart {
+    height: 30px;
+    clear:  both;
+    margin-bottom: 15px;
+}
+
+.left {
+    float: left;
+}
+
+.clearboth {
+    clear: both;
+}
+
+.manufacturer-info {
+    font-size: 150%;
+    padding: 10px;
+}
+
+.previewPurc {
+    background-position: 15px center;
+    right: 37px;
+    bottom: 10px;
+    position:absolute;
+    padding:0px;
+    margin:0px;
+    z-index: 9;
+}
+.nextPurc {
+    bottom: 10px;
+    background-position: -27px center;
+    position:absolute;
+    right:0;
+    padding:0px;
+    margin:0px;
+    z-index: 9;
+}
+
+#narrow-by-list .drop-shopby.in {
+    overflow-y: visible;
+    max-height: 290px;
+}
+
+.item-filter {
+    max-height: 330px;
+}
+
+.sizechart {
+    width: 100%;
+}
+
+.sizechart table {
+    width: 100%;
+    color: #000000;
+    font-family: Montserrat;
+}
+
+.sizechart table tr td:first-child {
+    text-align: left;
+    background-color: #666666;
+
+}
+
+.sizechart table tr td:first-child, .sizechart table th {
+    color: white;
+}
+
+.sizechart table th, .sizechart table td{
+    border: solid 1px black;
+    line-height: 40px;
+}
+
+.sizechart table th {
+    padding-left: 15px;
+    background-color: #ec5355;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.sizechart table td {
+    padding: 0px 3px;
+    text-align: center;
+    height: 35px;
+    min-width: 36px;
+    font-size: 12px;
+    white-space: nowrap;
+}
+
+.sizechart table td:nth-child(odd) {
+    background: #cccccc
+}
+
+.sizechart table td div {
+    font-size: 14px;
+    width: 160px;
+    padding-left: 7px;
+}
+
+
+.sizechart-button
+{
+    color: #fff;
+    background-color: #333;
+    line-height: 100%;
+    padding: 10px 20px;
+}
+
+/*---------------------product, delivery time-------------------------*/
+#dev-time {
+    clear: both;
+    margin: 5px 0;
+}
+
+#dev-time .orange {
+    background:url(../images/common/delivery/0-2.png) no-repeat;
+}
+
+#dev-time .dark-blue {
+    background:url(../images/common/delivery/1-4.png) no-repeat;
+}
+
+#dev-time .light-blue {
+    background:url(../images/common/delivery/4-8.png) no-repeat;
+}
+
+#dev-time .star {
+    display: inline-block;
+    height: 62px;
+    width: 62px;
+    text-align: center;
+}
+
+#dev-time .star span {
+    color: #FFFFFF;
+    display: block;
+    font-size: 12px;
+    padding-top: 14px;
+    line-height: 15px;
+}
+
+#dev-time .light-blue span{
+    font-size: 11px;
+    padding-top: 17px;
+}
+
+#dev-time .text {
+    display: inline-block;
+    margin: 5px 0 0 5px;
+    line-height: 12px;
+}
+
+#dev-time .text span {
+    font-size: 15px;
+}
+
+#dev-time .or,
+#dev-time .lb{
+    vertical-align: top;
+}
+#dev-time .or span{
+    color: #ec5355;
+}
+#dev-time .db span{
+    color: #32669f;
+}
+#dev-time .lb span{
+    color: #2f97cc;
+}
+#dev-time .text p.title {
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+#dev-time .text p.sub {
+    font-size: 10px;
+    margin-top: 3px;
+}
+
+#narrow-by-list dd.odd,#narrow-by-list dd.even {
+    max-height: 187px;
+    overflow-y: auto;
+}
+
+.hidden {
+    display: none;
+}
+
+@media (max-width: 991px) {
+
+    .banner-left, .banner-right
+    {
+        display: none;
+    }
+
+    #narrow-by-list dt.odd,#narrow-by-list dt.even {
+        /*background-size: contain;*/
+        background: url(../../../ma_greek/ma_greek1/images/menu_down.png) no-repeat 100% 50%;
+    }
+
+    #narrow-by-list dt.odd.active,#narrow-by-list dt.even.active {
+        /*background-size: contain;*/
+        background: url(../../../ma_greek/ma_greek1/images/menu_up.png) no-repeat 100% 50%;
+    }
+
+
+    .block.block-layered-nav #narrow-by-list dt
+    {
+        cursor: pointer;
+    }
+}
+
+@media (min-width: 992px) {
+    .pt_custommenu div.pt_menu .parentMenu a,
+    .pt_custommenu div.pt_menu .parentMenu span.block-title {
+        padding: 17px 14px !important;
+    }
+}
+
+.top-indent-sizechart {
+    top : 20%!important;
+}
+
+@media (max-width: 767px) {
+    .hidden-xs {
+        display: block !important;
+    }
+}
+
+.searchautocomplete .nav-search-in .nav-down-arrow {
+    top: 18px!important;
+}
+
+.searchautocomplete .nav-search-in .category-fake {
+    padding-top: 10px!important;
+}
+
+.bannerslideshow{ height: 90%;}
+
+@media (max-width: 767px) {
+    .banner7-content h1, .banner7-content h2, .banner7-content h3 {
+        transform: scale(0.8,0.8);
+    }
+}
+
+@media (max-width: 415px) {
+    .banner7-content h2 {
+        font-size: 2em !important;
+    }
+}
+
+@media (max-width: 349px) {
+    .banner7-content h2 {
+        font-size: 1.5em !important;
+        
+    }
+
+    .banner7-content h1 {
+        font-size: 0.9em !important;
+    }
+        .banner7-content .banner7-readmore a
+    {
+        padding: 4px 30px;
+     }
+              
+}
+
+@media (max-width: 287px) {
+    .banner7-content h2 {
+        font-size: 1em !important;
+    }
+
+    .banner7-content h1 {
+        font-size: 0.6em !important;
+    }
+
+    .banner7-content h3 {
+        font-size: 0.5em;
+    }
+
+    .banner7-content .banner7-readmore a
+    {
+        padding: 4px 15px !important;
+    }
+}
+
+@media (max-width: 767px){
+    .hidden-xs
+    {
+        display: inline-block!important;
+    }
+}

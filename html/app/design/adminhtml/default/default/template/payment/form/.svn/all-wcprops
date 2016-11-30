@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/form
+END
+cashondelivery.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/form/cashondelivery.phtml
+END
+banktransfer.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/form/banktransfer.phtml
+END
+ccsave.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/form/ccsave.phtml
+END
+cc.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/form/cc.phtml
+END
+purchaseorder.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/form/purchaseorder.phtml
+END
+checkmo.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/adminhtml/default/default/template/payment/form/checkmo.phtml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/Misspell/sql/misspell_setup
+END
+mysql4-upgrade-1.1.0-1.1.1.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/Misspell/sql/misspell_setup/mysql4-upgrade-1.1.0-1.1.1.php
+END
+mysql4-install-1.0.0.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/Misspell/sql/misspell_setup/mysql4-install-1.0.0.php
+END
+mysql4-upgrade-1.1.1-1.1.2.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/Misspell/sql/misspell_setup/mysql4-upgrade-1.1.1-1.1.2.php
+END

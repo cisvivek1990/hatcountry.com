@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/cart
+END
+noItems.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/cart/noItems.phtml
+END
+shipping.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/cart/shipping.phtml
+END
+coupon.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/cart/coupon.phtml
+END
+totals.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/cart/totals.phtml
+END
+crosssell.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/cart/crosssell.phtml
+END
+sidebar.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/cart/sidebar.phtml
+END

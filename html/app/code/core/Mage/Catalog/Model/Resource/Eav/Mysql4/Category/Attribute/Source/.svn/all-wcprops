@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Category/Attribute/Source
+END
+Page.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Category/Attribute/Source/Page.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Category/Attribute/Source/Layout.php
+END
+Mode.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Catalog/Model/Resource/Eav/Mysql4/Category/Attribute/Source/Mode.php
+END

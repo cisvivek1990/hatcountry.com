@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Model/Resource
+END
+Synonym.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Model/Resource/Synonym.php
+END
+Stopword.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/SearchSphinx/Model/Resource/Stopword.php
+END

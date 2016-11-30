@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<config>	
+	<menu>
+		<plumrocket>
+			<title>Plumrocket</title>
+			<sort_order>80</sort_order>
+			<children>
+				<datagenerator module="datagenerator" translate="title">
+					<title>Data Feed Generator</title>
+					<sort_order>250</sort_order>
+					<children>
+						<manage_list module="datagenerator" translate="title">
+							<title>Manage Data Feed List</title>
+							<sort_order>10</sort_order>
+							<action>datagenerator/admin/index</action>
+						</manage_list>
+						<config module="datagenerator" translate="title">
+							<title>Configuration</title>
+							<sort_order>20</sort_order>
+							<action>adminhtml/system_config/edit/section/datagenerator</action>
+						</config>
+					</children>
+				</datagenerator>
+			</children>
+		</plumrocket>
+	</menu>
+	<acl>
+		<resources>
+			<all>
+			    <title>Allow Everything</title>
+			</all>
+			<admin>
+				<children>
+					<plumrocket>
+						<title>Plumrocket</title>
+						<sort_order>80</sort_order>
+						<children>
+							<datagenerator translate="title" module="datagenerator">
+								<title>Data Feed Generator</title>
+								<sort_order>250</sort_order>
+								<children>
+									<manage_list translate="title">
+										<title>Manage Feed List</title>
+										<sort_order>1</sort_order>
+									</manage_list>
+									<config>
+										<title>Configuration</title>
+										<sort_order>3</sort_order>
+									</config>
+									<save translate="title">
+										<title>Save Templates</title>
+										<sort_order>4</sort_order>
+									</save>
+									<delete translate="title">
+										<title>Delete Templates</title>
+										<sort_order>5</sort_order>
+									</delete>
+								</children>
+							</datagenerator>
+						</children>
+					</plumrocket>
+					<system>
+						<children>
+							<config>
+								<children>
+									<datagenerator translate="title" module="datagenerator">
+                                        <title>Data Feed Generator Settings</title>
+                                    </datagenerator>
+								</children>
+							</config>
+						</children>
+					</system>
+				</children>
+			</admin>
+		</resources>
+	</acl>
+</config>

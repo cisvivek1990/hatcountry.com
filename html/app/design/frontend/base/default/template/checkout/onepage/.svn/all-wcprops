@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage
+END
+link.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/link.phtml
+END
+payment.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/payment.phtml
+END
+billing.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/billing.phtml
+END
+review.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/review.phtml
+END
+shipping.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/shipping.phtml
+END
+shipping_method.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/shipping_method.phtml
+END
+progress.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/progress.phtml
+END
+failure.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/failure.phtml
+END
+login.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/login.phtml
+END
+agreements.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/checkout/onepage/agreements.phtml
+END

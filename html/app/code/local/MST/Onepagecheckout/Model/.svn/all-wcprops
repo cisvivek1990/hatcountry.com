@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model
+END
+Data.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/Data.php
+END
+Validate.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/Validate.php
+END
+Registration.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/Registration.php
+END
+Terms.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/Terms.php
+END
+DeliveryFormat.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/DeliveryFormat.php
+END
+Layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/Layout.php
+END
+AutoupdateSection.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/AutoupdateSection.php
+END
+DeliveryDate.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/DeliveryDate.php
+END
+DeliveryTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/DeliveryTime.php
+END
+License.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/License.php
+END
+Saveconfig.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/local/MST/Onepagecheckout/Model/Saveconfig.php
+END

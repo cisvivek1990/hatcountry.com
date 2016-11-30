@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/Misspell/Model
+END
+Indexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/Misspell/Model/Indexer.php
+END
+Suggest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/Misspell/Model/Suggest.php
+END
+Dameraulevenshtein.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/Misspell/Model/Dameraulevenshtein.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/Misspell/Model/Observer.php
+END
+Misspell.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/root/!svn/ver/112711/hatcountry-magento/test/app/code/local/Mirasvit/Misspell/Model/Misspell.php
+END

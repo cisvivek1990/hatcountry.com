@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/root/!svn/ver/112974/hatcountry-magento/test/app/code/local/Mirasvit/Seo/Model
+END
+Rewrite.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/root/!svn/ver/112766/hatcountry-magento/test/app/code/local/Mirasvit/Seo/Model/Rewrite.php
+END
+Opengraph.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/root/!svn/ver/112974/hatcountry-magento/test/app/code/local/Mirasvit/Seo/Model/Opengraph.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/112766/hatcountry-magento/test/app/code/local/Mirasvit/Seo/Model/Config.php
+END
+Paging.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/root/!svn/ver/112766/hatcountry-magento/test/app/code/local/Mirasvit/Seo/Model/Paging.php
+END
+Observer.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/root/!svn/ver/112766/hatcountry-magento/test/app/code/local/Mirasvit/Seo/Model/Observer.php
+END

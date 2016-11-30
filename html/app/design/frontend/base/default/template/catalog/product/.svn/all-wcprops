@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/root/!svn/ver/112686/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product
+END
+gallery.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/gallery.phtml
+END
+price_msrp_item.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/price_msrp_item.phtml
+END
+price.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/price.phtml
+END
+price_msrp.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/price_msrp.phtml
+END
+price_msrp_noform.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/price_msrp_noform.phtml
+END
+new.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/new.phtml
+END
+price_msrp_rss.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/price_msrp_rss.phtml
+END
+view.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view.phtml
+END
+list.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/list.phtml
+END

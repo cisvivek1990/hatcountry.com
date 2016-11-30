@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order
+END
+print.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/print.phtml
+END
+invoice.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/invoice.phtml
+END
+trackinginfo.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/trackinginfo.phtml
+END
+recent.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/recent.phtml
+END
+history.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/history.phtml
+END
+items.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/items.phtml
+END
+details.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/details.phtml
+END
+comments.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/comments.phtml
+END
+totals.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/totals.phtml
+END
+shipment.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/shipment.phtml
+END
+creditmemo.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/creditmemo.phtml
+END
+view.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/view.phtml
+END
+info.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/sales/order/info.phtml
+END

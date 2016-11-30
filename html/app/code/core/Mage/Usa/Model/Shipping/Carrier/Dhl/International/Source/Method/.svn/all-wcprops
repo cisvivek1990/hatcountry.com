@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International/Source/Method
+END
+Size.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International/Source/Method/Size.php
+END
+Nondoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International/Source/Method/Nondoc.php
+END
+Freenondoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International/Source/Method/Freenondoc.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International/Source/Method/Abstract.php
+END
+Doc.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International/Source/Method/Doc.php
+END
+Unitofmeasure.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International/Source/Method/Unitofmeasure.php
+END
+Freedoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/Usa/Model/Shipping/Carrier/Dhl/International/Source/Method/Freedoc.php
+END

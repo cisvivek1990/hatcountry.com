@@ -1,0 +1,10 @@
+<?php
+$minimum = $this->getMinAmount();
+if($minimum > 0 && $this -> getProductPrice() > $minimum)
+{?>
+    <div class="block-login">
+        <div id="free-shipping-label" class="block-title price-box">Orders will qualify for
+            <?php echo $this->getLabel(); ?>
+            with purchase of this item over $<?php echo $minimum ?>.*</div>
+    </div>
+<?php } ?>

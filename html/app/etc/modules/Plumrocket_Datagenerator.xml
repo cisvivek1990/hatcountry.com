@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+	   <Plumrocket_Datagenerator>
+		  <active>true</active>
+		  <codePool>community</codePool>
+		  <version>1.6.0</version>
+		  <name>Plumrocket Data Feed Generator</name>
+		  <depends>
+            <Plumrocket_Base />
+		  </depends>
+	   </Plumrocket_Datagenerator>
+	</modules>
+</config>

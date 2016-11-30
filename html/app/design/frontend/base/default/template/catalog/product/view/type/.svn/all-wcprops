@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/112686/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/type
+END
+configurable.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/type/configurable.phtml
+END
+default.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/type/default.phtml
+END
+grouped.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/type/grouped.phtml
+END
+virtual.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/type/virtual.phtml
+END
+simple.phtml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/design/frontend/base/default/template/catalog/product/view/type/simple.phtml
+END

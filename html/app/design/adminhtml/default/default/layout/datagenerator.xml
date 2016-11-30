@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+	
+	<datagenerator_admin_index>
+		<reference name="content">
+			<block type="datagenerator/adminhtml_list" name="datagenerator_list"/>
+		</reference>
+	</datagenerator_admin_index>
+	
+	<datagenerator_main>
+		<reference name="head">
+			<action method="addItem"><type>skin_js</type><name>js/plumrocket/datagenerator/jquery-1.6.1.min.js</name></action>
+
+			<action method="addItem"><type>skin_js</type><name>js/plumrocket/datagenerator/jquery-ui-1.8.20.custom.js</name></action>
+			<action method="addItem"><type>skin_js</type><name>js/plumrocket/datagenerator/jquery-autocomplete-inner-master.js</name></action>
+			
+			<action method="addItem"><type>skin_js</type><name>js/plumrocket/datagenerator/lib/codemirror.js</name></action>
+			<action method="addItem"><type>skin_js</type><name>js/plumrocket/datagenerator/mode/xml/xml.js</name></action>
+			<action method="addItem"><type>skin_js</type><name>js/plumrocket/datagenerator/lib/util/closetag.js</name></action>
+
+			<action method="addItem"><type>skin_js</type><name>js/plumrocket/datagenerator/edit.js</name></action>
+			
+			<action method="addCss"><stylesheet>js/plumrocket/datagenerator/lib/codemirror.css</stylesheet></action>	
+
+			<!-- bug with marge css fix -->
+			<!--<action method="addCss"><stylesheet>css/plumrocket/datagenerator/jquery-autocomplete-inner-master/jquery.ui.all.css</stylesheet></action>-->
+			<action method="addCss"><stylesheet>css/plumrocket/datagenerator/jquery-autocomplete-inner-master/jquery.ui.core.css</stylesheet></action>
+			<action method="addCss"><stylesheet>css/plumrocket/datagenerator/jquery-autocomplete-inner-master/jquery.ui.autocomplete.css</stylesheet></action>
+			<action method="addCss"><stylesheet>css/plumrocket/datagenerator/jquery-autocomplete-inner-master/jquery.ui.theme.css</stylesheet></action>
+			<!-- end fix -->
+			
+			<action method="addCss"><stylesheet>css/plumrocket/datagenerator/jquery-autocomplete-inner-master/app.css</stylesheet></action>
+        </reference>
+		
+		<reference name="content">
+			<block type="datagenerator/adminhtml_edit" name="datagenerator_edit"/>
+		</reference>
+        <reference name="left">
+            <block type="datagenerator/adminhtml_edit_tabs" name="datagenerator_edit_tabs">
+				<block type="datagenerator/adminhtml_edit_tabs_general" name="datagenerator_edit_tabs_general" />
+				<block type="datagenerator/adminhtml_edit_tabs_editor" name="datagenerator_edit_tabs_editor"  template="datagenerator/editor.phtml"/>
+                <action method="addTab"><name>general_section</name><block>datagenerator_edit_tabs_general</block></action>
+                <action method="addTab"><name>editor_section</name><block>datagenerator_edit_tabs_editor</block></action>
+			</block>
+        </reference>
+	</datagenerator_main>
+		
+	<datagenerator_admin_edit>
+		<update handle="datagenerator_main" />
+	</datagenerator_admin_edit>
+	
+	<datagenerator_admin_new>
+		<update handle="datagenerator_main" />
+	</datagenerator_admin_new>
+</layout>

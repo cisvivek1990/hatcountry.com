@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge
+END
+Authorizenet.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge/Authorizenet.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge/Abstract.php
+END
+Paypal.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge/Paypal.php
+END
+Paypaluk.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge/Paypaluk.php
+END
+Verisign.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/root/!svn/ver/110488/hatcountry-magento/test/app/code/core/Mage/XmlConnect/Block/Checkout/Payment/Method/Pbridge/Verisign.php
+END

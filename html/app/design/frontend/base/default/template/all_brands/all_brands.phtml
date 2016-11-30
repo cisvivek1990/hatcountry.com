@@ -1,0 +1,86 @@
+
+<?php
+/**
+ * Created by PhpStorm.
+ * User: kbordyug
+ * Date: 1/25/2015
+ * Time: 7:29 PM
+ */
+?>
+<?php
+    $categoryPath = Mage::getModel('catalog/category')->load(2613)->getUrlKey();
+
+    $name='manufacturer';
+    $attributeInfo = Mage::getResourceModel('eav/entity_attribute_collection')->setCodeFilter($name)->getFirstItem();
+    $attributeId = $attributeInfo->getAttributeId();
+    $attribute = Mage::getModel('catalog/resource_eav_attribute')->load($attributeId);
+    $attributeOptions = $attribute ->getSource()->getAllOptions(false);
+
+    $dictAttr = array();
+    foreach($attributeOptions as $atItem)
+    {
+        $label = $atItem['label'];
+        $key = substr($label, 0, 1);
+        if(!array_key_exists($key, $dictAttr))
+        {
+            $dictAttr[$key] = array();
+        }
+        array_push($dictAttr[$key],$label);
+    }
+
+    $size = (count($attributeOptions) +  count($dictAttr)) / 4; //number of columns.
+                                                                // If you change it, do not forget to change columns width on common.css
+    $currentStep = 0;
+
+    foreach($dictAttr as $key => $item) :
+        if($currentStep >= $size || $currentStep == 0) {
+             if($currentStep > 0) {
+                 $currentStep = 1;?>
+                </div>
+
+            <?php }?>
+                <div class="manufacturerColumn">
+                 <?php
+                 }
+                 $currentStep ++;
+                 ?>
+
+        <div  class="manufacturerItem">
+            <div class="key"><?php echo $key; ?></div>
+
+        <?php while($element = current($item)) { ?>
+
+               <div><a href="/<?php  echo $categoryPath
+                                    . "/"
+                                    . formatUrlKey($element); ?>.html"><?php echo $element; ?></a></div>
+
+        <?php  next($item);
+            $currentStep++;
+    }
+       ?>
+        </div>
+    <?php endforeach; ?>
+            </div>
+
+<?php
+function formatUrlKey($str)
+{
+    $str = cleanString($str);
+    $str = Mage::helper('core')->removeAccents($str);
+    $urlKey = strtolower($str);
+    $urlKey = trim($urlKey, '-');
+
+    return $urlKey;
+}
+
+function cleanString($text) {
+    $replace = array(
+        '/®/'   =>   'r',
+        '#[^0-9a-z]+#i' => '-'
+    );
+    $res = preg_replace(array_keys($replace), array_values($replace), $text);
+    return $res == null ? $text : $res;
+}
+?>
+
+
