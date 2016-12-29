@@ -1,0 +1,14 @@
+<?php $helper = Mage::helper('exitoffer');?>
+<select
+    name="<?php echo $this->getName();?>"
+    data-field-name="<?php echo $this->getTitle()?>"
+    class="mteo-additional-field mteo-additional-field-<?php echo $this->getName();?> <?php echo $this->getIsRequired()?' mt-validator-required':''; ?>"
+    id="mteo_additional_<?php echo $this->getName();?>">
+    <option value=""><?php echo $this->getTitle(); ?></option>
+    <?php if ($options = $this->getOptions()) : ?>
+        <?php foreach ($options as $option): ?>
+            <option value="<?php echo $option;?>"><?php echo $option;?></option>
+        <?php endforeach;?>
+    <?php endif; ?>
+</select>
+
