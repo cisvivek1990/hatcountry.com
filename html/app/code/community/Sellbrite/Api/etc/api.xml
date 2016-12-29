@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<config>
+    <api>
+        <resources>
+            <sellbrite_product translate="title" module="sellbrite_api">
+                <title>Product API</title>
+                <model>sellbrite_api/catalog_product_api</model>
+                <acl>sellbrite/catalog/product</acl>
+                <methods>
+                    <list translate="title" module="sellbrite_api">
+                        <title>Retrieve products list by filters</title>
+                        <method>items</method>
+                        <acl>sellbrite/catalog/product/list</acl>
+                    </list>
+                </methods>
+            </sellbrite_product>
+        </resources>
+        <v2>
+            <resources_function_prefix>
+                <sellbrite_product>sellbriteProduct</sellbrite_product>
+            </resources_function_prefix>
+        </v2>
+        <acl>
+            <resources>
+                <sellbrite_api translate="title" module="sellbrite_api">
+                    <title>Sellbrite API</title>
+                    <product translate="title" module="sellbrite_api">
+                        <title>Product</title>
+                        <sort_order>0</sort_order>
+                        <list translate="title" module="sellbrite_api">
+                            <title>List</title>
+                        </list>
+                    </product>
+                </sellbrite_api>
+            </resources>
+        </acl>
+    </api>
+</config>

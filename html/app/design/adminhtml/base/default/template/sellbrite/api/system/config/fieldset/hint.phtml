@@ -1,0 +1,51 @@
+<?php
+/**
+ * @var Sellbrite_Api_Block_Adminhtml_System_Config_Fieldset_Hint $this
+ */
+?>
+<?php if(!$this->isSupportedVersion()) : ?>
+  <div class="box">
+    <div>
+        <a href="https://www.sellbrite.com" target="_blank"><img src="http://sellbrite.com/wp-content/uploads/sellbrite-logo-300@2x1.png" height='50' alt="Sellbrite" title="Sellbrite" /></a><br>
+
+        <br>
+        <h2 style='color: red'>Sorry, but we don't currently support your Magento version.</h2>
+        <b>Your Magento Version:</b> <code><?php echo $this->getMagentoVersion(); ?></code><br>
+        <b>Minimum Supported Version:</b> <code><?php echo $this->getMinVersion(); ?></code><br><br>
+
+        We are working hard to add support for more versions. So stay tuned!
+
+        <div style='clear: both;'></div>
+
+    </div>
+  </div>
+<?php else : ?>
+    <div class="box">
+        <div>
+            <a href="https://www.sellbrite.com" target="_blank"><img src="http://sellbrite.com/wp-content/uploads/sellbrite-logo-300@2x1.png" height='50' alt="Sellbrite" title="Sellbrite" /></a><br>
+             <fieldset>
+                <h2>SOAP API Credentials</h2>
+                <b>Api User:</b> <code><?php echo $this->getSoapUser(); ?></code><br><br>
+                <b>API Key:</b> <code><?php echo $this->getApiKey(); ?></code><br><br>
+            </fieldset>
+            <a onclick="$('sellbrite_connection_form').submit();" style='display: inline-block; color: white; border-radius: 5px; padding: 10px 20px; background: #6fcc37; -webkit-box-shadow: inset 0 -2px 0 rgba(0,0,0,.15);
+    box-shadow: inset 0 -2px 0 rgba(0,0,0,.15); font-weight: bold; font-size: 14px; text-decoration: none;' onmouseover="this.style.cursor='pointer'">Connect to Sellbrite</a>
+            <div style='clear: both;'></div>
+
+        </div>
+    </div>
+
+
+    <script type="text/javascript">
+        document.observe('dom:loaded', function(){
+            $('config_edit_form').insert({
+                'after': '<form method="post" action="<?php echo $this->getEndPointUrl(); ?>" id="sellbrite_connection_form">'
+                + '<input type="hidden" name="api_key" value="<?php echo $this->getApiKey(); ?>" />'
+                + '<input type="hidden" name="api_user" value="<?php echo $this->getSoapUser(); ?>" />'
+                + '<input type="hidden" name="uid" value="<?php echo Mage::getBaseUrl(); ?>" />'
+                + '<input type="hidden" name="provider" value="<?php echo 'magento'; ?>" />'
+                + '</form>'
+            });
+        });
+    </script>
+<?php endif; ?>

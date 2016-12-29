@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<config>
+    <tabs>
+        <sellbrite translate="label" module="sellbrite_api">
+            <label><![CDATA[<div><img src="http://sellbrite.com/wp-content/uploads/sellbrite-logo-300@2x1.png" alt="Sellbrite" title="Sellbrite" height="23" style="display:block;" /></div>]]></label>
+            <sort_order>1000</sort_order>
+        </sellbrite>
+    </tabs>
+    <sections>
+        <sellbrite_api translate="label" module="sellbrite_api">
+            <label>Connect</label>
+            <tab>sellbrite</tab>
+            <sort_order>100</sort_order>
+            <show_in_default>1</show_in_default>
+            <show_in_website>1</show_in_website>
+            <show_in_store>1</show_in_store>
+            <groups>
+                <hint>
+                    <frontend_model>sellbrite_api/adminhtml_system_config_fieldset_hint</frontend_model>
+                    <sort_order>0</sort_order>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                </hint>
+            </groups>
+        </sellbrite_api>
+    </sections>
+</config>

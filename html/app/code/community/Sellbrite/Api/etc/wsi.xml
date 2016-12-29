@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wsdl:definitions xmlns:typens="urn:{{var wsdl.name}}"
+                  xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                  xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/"
+                  xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/"
+                  name="{{var wsdl.name}}"
+                  targetNamespace="urn:{{var wsdl.name}}">
+    <wsdl:types>
+        <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:{{var wsdl.name}}">
+            <xsd:complexType name="sellbriteProductEntityArray">
+                <xsd:sequence>
+                    <xsd:element minOccurs="0" maxOccurs="unbounded" name="complexObjectArray"
+                                 type="typens:sellbriteProductEntity"/>
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:complexType name="sellbriteProductEntity">
+                <xsd:sequence>
+                    <xsd:element name="product_id" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="sku" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="set" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="type" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="categories" type="typens:ArrayOfString" minOccurs="0"/>
+                    <xsd:element name="websites" type="typens:ArrayOfString" minOccurs="0"/>
+                    <xsd:element name="created_at" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="updated_at" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="type_id" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="name" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="description" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="short_description" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="weight" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="status" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="url_key" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="url_path" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="visibility" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="category_ids" type="typens:ArrayOfString" minOccurs="0"/>
+                    <xsd:element name="website_ids" type="typens:ArrayOfString" minOccurs="0"/>
+                    <xsd:element name="has_options" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="gift_message_available" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="price" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="special_price" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="special_from_date" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="special_to_date" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="tax_class_id" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="tier_price" type="typens:catalogProductTierPriceEntityArray" minOccurs="0"/>
+                    <xsd:element name="meta_title" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="meta_keyword" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="meta_description" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="custom_design" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="custom_layout_update" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="options_container" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="image_url" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="qty" type="xsd:string" minOccurs="0"/>
+                    <xsd:element name="additional_attributes" type="typens:associativeArray" minOccurs="0"/>
+                    <xsd:element name="sb_configurable_parent_product_ids" type="typens:ArrayOfString" minOccurs="0"/>
+                    <xsd:element name="sb_configurable_child_product_ids" type="typens:ArrayOfString" minOccurs="0"/>
+                    <xsd:element name="sb_configurable_products_data" type="typens:childrenEntityArray" minOccurs="0"/>
+                    <xsd:element name="sb_configurable_attributes_data" type="typens:configurableOptionsEntityArray"
+                             minOccurs="0"/>
+                    <xsd:element name="sb_grouped_child_product_ids" type="typens:ArrayOfString" minOccurs="0"/>
+                    <xsd:element name="stock_data" type="typens:catalogInventoryStockItemEntityArray" minOccurs="0"/>
+                    <xsd:element name="images" type="typens:catalogProductImageEntityArray" minOccurs="0"/>
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:complexType name="childrenEntityArray">
+                <xsd:sequence>
+                    <xsd:element minOccurs="0" maxOccurs="unbounded" name="complexObjectArray" type="typens:childrenEntity" />
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:complexType name="childrenEntity">
+                <xsd:sequence>
+                    <xsd:element name="product_id" type="xsd:int" minOccurs="0" />
+                    <xsd:element name="sku" type="xsd:string" minOccurs="0" />
+                    <xsd:element minOccurs="0" maxOccurs="unbounded" name="complexObjectArray" type="typens:childrenEntityOptionsArray" />
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:complexType name="childrenEntityOptionsArray">
+                <xsd:sequence>
+                    <xsd:element minOccurs="0" maxOccurs="unbounded" name="complexObjectArray" type="typens:childrenEntityOptions" />
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:complexType name="childrenEntityOptions">
+                <xsd:sequence>
+                    <xsd:element name="label" type="xsd:string" minOccurs="0" />
+                    <xsd:element name="attribute_code" type="xsd:string" minOccurs="0" />
+                    <xsd:element name="value_index" type="xsd:string" minOccurs="0" />
+                    <xsd:element name="value_text" type="xsd:string" minOccurs="0" />
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:complexType name="configurableOptionsEntityArray">
+                <xsd:sequence>
+                    <xsd:element minOccurs="0" maxOccurs="unbounded" name="complexObjectArray" type="typens:configurableOptionsEntity" />
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:complexType name="configurableOptionsEntity">
+                <xsd:sequence>
+                    <xsd:element name="code" type="xsd:string" minOccurs="0" />
+                    <xsd:element name="options" type="typens:associativeArray" minOccurs="0"/>
+                </xsd:sequence>
+            </xsd:complexType>
+            <xsd:element name="sellbriteProductListRequestParam">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element minOccurs="1" maxOccurs="1" name="sessionId" type="xsd:string"/>
+                        <xsd:element minOccurs="0" maxOccurs="1" name="filters" type="typens:filters"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+            <xsd:element name="sellbriteProductListResponseParam">
+                <xsd:complexType>
+                    <xsd:sequence>
+                        <xsd:element minOccurs="0" maxOccurs="1" name="result"
+                                     type="typens:sellbriteProductEntityArray"/>
+                    </xsd:sequence>
+                </xsd:complexType>
+            </xsd:element>
+        </xsd:schema>
+    </wsdl:types>
+    <wsdl:message name="sellbriteProductListRequest">
+        <wsdl:part name="parameters" element="typens:sellbriteProductListRequestParam"/>
+    </wsdl:message>
+    <wsdl:message name="sellbriteProductListResponse">
+        <wsdl:part name="parameters" element="typens:sellbriteProductListResponseParam"/>
+    </wsdl:message>
+    <wsdl:portType name="{{var wsdl.handler}}PortType">
+        <wsdl:operation name="sellbriteProductList">
+            <wsdl:documentation>Retrieve list of Products</wsdl:documentation>
+            <wsdl:input message="typens:sellbriteProductListRequest"/>
+            <wsdl:output message="typens:sellbriteProductListResponse"/>
+        </wsdl:operation>
+    </wsdl:portType>
+    <wsdl:binding name="{{var wsdl.handler}}Binding" type="typens:{{var wsdl.handler}}PortType">
+        <soap:binding style="document" transport="http://schemas.xmlsoap.org/soap/http"/>
+        <wsdl:operation name="sellbriteProductList">
+            <soap:operation soapAction=""/>
+            <wsdl:input>
+                <soap:body use="literal"/>
+            </wsdl:input>
+            <wsdl:output>
+                <soap:body use="literal"/>
+            </wsdl:output>
+        </wsdl:operation>
+    </wsdl:binding>
+    <wsdl:service name="{{var wsdl.name}}Service">
+        <wsdl:port name="{{var wsdl.handler}}Port" binding="typens:{{var wsdl.handler}}Binding">
+            <soap:address location="{{var wsdl.url}}"/>
+        </wsdl:port>
+    </wsdl:service>
+</wsdl:definitions>
