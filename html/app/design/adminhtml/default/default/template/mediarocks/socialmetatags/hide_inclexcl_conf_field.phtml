@@ -1,0 +1,13 @@
+<?php $taxHelper = Mage::helper('tax'); ?>
+<script type="text/javascript">
+
+  // hide exclude/include setting if only one price is shown in the frontend
+  if (<?php echo $taxHelper->displayBothPrices() ? "false" : "true"; ?>) {
+      document.getElementById('row_socialmetatags_general_product_price_tax').style.display = 'none';
+  }
+  
+  // hide exclude/include FPT setting if FTP is disabled
+  if (<?php echo Mage::getStoreConfig('tax/weee/enable') ? "false" : "true"; ?>) {
+      document.getElementById('row_socialmetatags_general_product_price_weee').style.display = 'none';
+  }
+</script>

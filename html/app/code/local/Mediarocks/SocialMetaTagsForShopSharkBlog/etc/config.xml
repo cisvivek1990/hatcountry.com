@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Media Rocks GbR
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the EULA that is bundled with 
+ * this package in the file MEDIAROCKS-LICENSE-COMMUNITY.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://solutions.mediarocks.de/MEDIAROCKS-LICENSE-COMMUNITY.txt
+ *
+ * =================================================================
+ *                 MAGENTO EDITION USAGE NOTICE
+ * =================================================================
+ * This package is designed for Magento COMMUNITY edition. 
+ * Media Rocks does not guarantee correct work of this extension
+ * on any other Magento edition except Magento COMMUNITY edition.
+ * Media Rocks does not provide extension support in case of
+ * incorrect edition usage.
+ * =================================================================
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade the extension
+ * to newer versions in the future. If you wish to customize the extension
+ * for your needs please send an email to support@mediarocks.de
+ *
+ */
+-->
+<config>
+
+    <modules>
+        <Mediarocks_SocialMetaTagsForShopSharkBlog>
+            <version>0.0.1</version>
+        </Mediarocks_SocialMetaTagsForShopSharkBlog>
+    </modules>
+	
+    <admin>
+        <routers>
+            <blog_admin>
+                <args>
+                    <modules>
+                        <blog_admin before="ShopShark_Blog">Mediarocks_SocialMetaTagsForShopSharkBlog</blog_admin>
+                    </modules>
+                </args>
+            </blog_admin>
+        </routers>
+    </admin>
+	
+	
+    <global>
+    	
+        <blocks>
+            <blog>
+                <rewrite>
+                    <manage_blog_edit_tab_options>Mediarocks_SocialMetaTagsForShopSharkBlog_Block_Manage_Blog_Edit_Tab_Options</manage_blog_edit_tab_options>
+                    <manage_cat_edit_form>Mediarocks_SocialMetaTagsForShopSharkBlog_Block_Manage_Cat_Edit_Form</manage_cat_edit_form>
+                </rewrite>
+            </blog>
+        </blocks>
+		
+        <models>
+            <mediarocks_socialmetatagsforshopsharkblog>
+                <class>Mediarocks_SocialMetaTagsForShopSharkBlog_Model</class>
+            </mediarocks_socialmetatagsforshopsharkblog>
+            <mediarocks_socialmetatags>
+                <rewrite>
+                    <head>Mediarocks_SocialMetaTagsForShopSharkBlog_Model_Head</head>
+                </rewrite>
+            </mediarocks_socialmetatags>
+        </models>
+		
+        <helpers>
+            <mediarocks_socialmetatagsforshopsharkblog>
+                <class>Mediarocks_SocialMetaTagsForShopSharkBlog_Helper</class>
+            </mediarocks_socialmetatagsforshopsharkblog>
+        </helpers>
+        
+        <resources>
+            <mediarocks_socialmetatagsforshopsharkblog_setup>
+                <setup>
+                    <module>Mediarocks_SocialMetaTagsForShopSharkBlog</module>
+					<class>Mediarocks_SocialMetaTagsForShopSharkBlog_Model_Resource_Mysql4_Setup</class>
+                </setup>
+				<connection>
+					<use>core_setup</use>
+				</connection>
+            </mediarocks_socialmetatagsforshopsharkblog_setup>
+            <mediarocks_socialmetatagsforshopsharkblog_write>
+                <connection>
+                    <use>core_write</use>
+                </connection>
+            </mediarocks_socialmetatagsforshopsharkblog_write>
+            <mediarocks_socialmetatagsforshopsharkblog_read>
+                <connection>
+                    <use>core_read</use>
+                </connection>
+            </mediarocks_socialmetatagsforshopsharkblog_read>
+        </resources>
+        
+    </global>
+	
+	
+    <frontend>
+    	
+        <layout>
+            <updates>
+                <mediarocks_socialmetatagsforshopsharkblog>
+                    <file>mediarocks_socialmetatagsforshopsharkblog.xml</file>
+                </mediarocks_socialmetatagsforshopsharkblog>
+            </updates>
+        </layout>
+        
+    </frontend>
+    
+</config>

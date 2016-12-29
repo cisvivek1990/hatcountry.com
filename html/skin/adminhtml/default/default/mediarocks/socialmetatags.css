@@ -1,0 +1,15 @@
+#row_socialmetatags_twitter_card_type_cms td,
+#row_socialmetatags_twitter_card_data_1_enabled td,
+#row_socialmetatags_twitter_card_data_2_enabled td,
+#socialmetatags_twitter_force_thumbnail_product td,
+#row_socialmetatags_twitter_force_thumbnail_product td {
+  padding-top: 18px !important;
+  border-top: 3px solid #6F8992 !important;
+}
+
+#row_socialmetatags_twitter_card_creator_id td,
+#row_socialmetatags_twitter_card_type_product td,
+#row_socialmetatags_twitter_card_data_1_label td,
+#row_socialmetatags_twitter_card_data_2_label td  {
+  padding-bottom: 18px !important;
+}

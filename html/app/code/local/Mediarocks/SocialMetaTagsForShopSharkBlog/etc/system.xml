@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+/**
+ * Media Rocks GbR
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the EULA that is bundled with 
+ * this package in the file MEDIAROCKS-LICENSE-COMMUNITY.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://solutions.mediarocks.de/MEDIAROCKS-LICENSE-COMMUNITY.txt
+ *
+ * =================================================================
+ *                 MAGENTO EDITION USAGE NOTICE
+ * =================================================================
+ * This package is designed for Magento COMMUNITY edition. 
+ * Media Rocks does not guarantee correct work of this extension
+ * on any other Magento edition except Magento COMMUNITY edition.
+ * Media Rocks does not provide extension support in case of
+ * incorrect edition usage.
+ * =================================================================
+ *
+ * DISCLAIMER
+ *
+ * Do not edit or add to this file if you wish to upgrade the extension
+ * to newer versions in the future. If you wish to customize the extension
+ * for your needs please send an email to support@mediarocks.de
+ *
+ */
+-->
+<config>
+	<sections>
+		<socialmetatags translate="label" module="mediarocks_socialmetatags">
+			<label>Social Meta Tags (with ShopSharkBlog)</label>
+			<groups>
+                <facebook>
+                    <fields>
+						<blog_title translate="label comment">
+							<label>Blog Title</label>
+							<frontend_type>text</frontend_type>
+							<sort_order>110</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<depends>
+								<enabled>1</enabled>
+							</depends>
+						</blog_title>
+						<blog_description translate="label comment">
+							<label>Blog Description</label>
+							<comment>Note: This is also used as fallback description for blog categories.</comment>
+							<frontend_type>textarea</frontend_type>
+							<sort_order>111</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<depends>
+								<enabled>1</enabled>
+							</depends>
+						</blog_description>
+						<blog_image translate="label comment">
+							<label>Blog Image (png, jpg or gif)</label>
+							<comment>Upload an image to display on the main blog site. Note: This is also used as fallback image for blog categories and posts.</comment>
+							<frontend_type>image</frontend_type>
+							<backend_model>adminhtml/system_config_backend_image</backend_model>
+							<upload_dir>media/mrsocialmetatags</upload_dir>
+							<base_url type="media" scope_info="1">mrsocialmetatags</base_url>
+							<sort_order>112</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<depends>
+								<enabled>1</enabled>
+							</depends>
+						</blog_image>
+                    </fields>
+                </facebook>
+				<twitter translate="label comment">
+					<fields>
+						<card_type_blog translate="label">
+							<label>Twitter Card Type for Blog</label>
+							<frontend_type>select</frontend_type>
+							<source_model>Mediarocks_SocialMetaTags_Model_System_Config_Source_Twitter_Cards</source_model>
+							<sort_order>70</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<depends>
+								<enabled>1</enabled>
+							</depends>
+						</card_type_blog>
+						<card_type_blog_category translate="label">
+							<label>Twitter Card Type for Blog Categories</label>
+							<frontend_type>select</frontend_type>
+							<source_model>Mediarocks_SocialMetaTags_Model_System_Config_Source_Twitter_Cards</source_model>
+							<sort_order>80</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<depends>
+								<enabled>1</enabled>
+							</depends>
+						</card_type_blog_category>
+						<card_type_blog_post translate="label">
+							<label>Twitter Card Type for Blog Posts</label>
+							<frontend_type>select</frontend_type>
+							<source_model>Mediarocks_SocialMetaTags_Model_System_Config_Source_Twitter_Cards</source_model>
+							<sort_order>90</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<depends>
+								<enabled>1</enabled>
+							</depends>
+						</card_type_blog_post>
+						<blog_title translate="label comment">
+							<label>Blog Title</label>
+							<frontend_type>text</frontend_type>
+							<sort_order>110</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<depends>
+								<enabled>1</enabled>
+							</depends>
+						</blog_title>
+						<blog_description translate="label comment">
+							<label>Blog Description</label>
+							<comment>Twitter only allows a maximum of 200 characters. Note: This is also used as fallback description for blog categories.</comment>
+							<frontend_type>textarea</frontend_type>
+							<sort_order>111</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<depends>
+								<enabled>1</enabled>
+							</depends>
+						</blog_description>
+						<blog_image translate="label comment">
+							<label>Blog Image (png, jpg or gif)</label>
+							<comment>Upload an image to display on the main blog site. Note: This is also used as fallback image for blog categories and posts.</comment>
+							<frontend_type>image</frontend_type>
+							<backend_model>adminhtml/system_config_backend_image</backend_model>
+							<upload_dir>media/mrsocialmetatags</upload_dir>
+							<base_url type="media" scope_info="1">mrsocialmetatags</base_url>
+							<sort_order>112</sort_order>
+							<show_in_default>1</show_in_default>
+							<show_in_website>1</show_in_website>
+							<show_in_store>1</show_in_store>
+							<depends>
+								<enabled>1</enabled>
+							</depends>
+						</blog_image>
+					</fields>
+				</twitter>
+			</groups>
+		</socialmetatags>
+	</sections>
+</config>
