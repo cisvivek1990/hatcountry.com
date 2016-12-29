@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Engage Commerce
+ *
+ * NOTICE OF LICENSE
+ *
+ * This source file is subject to the Open Software License (OSL 3.0)
+ * that is bundled with this package in the file LICENSE.txt.
+ * It is also available through the world-wide-web at this URL:
+ * http://opensource.org/licenses/osl-3.0.php
+ * If you did not receive a copy of the license and are unable to
+ * obtain it through the world-wide-web, please send an email
+ * to license@magentocommerce.com so we can send you a copy immediately.
+ *
+ * @category    EngageCommerce
+ * @package     EngageCommerce_Twitter
+ * @copyright   Copyright (c) 2016 Engage Commerce (http://engagecommerce.io)
+ * @license     http://opensource.org/licenses/osl-3.0.php  Open Software License (OSL 3.0)
+ */
+-->
+<config>
+    <tabs>
+        <engagecommerce>
+            <label>Engage Commerce</label>
+            <sort_order>100</sort_order>
+        </engagecommerce>
+    </tabs>
+    <sections>
+        <engagecommerce_twitter translate="label">
+            <label>Twitter Website Tag</label>
+            <tab>engagecommerce</tab>
+            <frontend_type>text</frontend_type>
+            <sort_order>1</sort_order>
+            <show_in_default>1</show_in_default>
+            <show_in_website>1</show_in_website>
+            <show_in_store>1</show_in_store>
+            <groups>
+                <twitter_pixel translate="label">
+                    <label>Setup "All Site Visits" Tag</label>
+                    <show_in_default>1</show_in_default>
+                    <show_in_website>1</show_in_website>
+                    <show_in_store>1</show_in_store>
+                    <sort_order>1</sort_order>
+                    <expanded>1</expanded>
+                    <fields>
+                        <enabled translate="label">
+                            <label>Enabled</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>adminhtml/system_config_source_enabledisable</source_model>
+                            <sort_order>10</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <comment><![CDATA[Enabling the Twitter "All Site Visits" website tag will allow the tag to load on every page, sending your visitor traffic to Twitter so that you can utilize <a href="https://business.twitter.com/solutions/tailored-audiences" target="_blank">tailored audiences</a> and <a href="https://business.twitter.com/help/conversion-tracking-for-websites" target="_blank">conversion tracking</a>.]]></comment>
+                        </enabled>
+                        <pixel_id translate="label">
+                            <label>Twitter Tag ID(s)</label>
+                            <frontend_type>text</frontend_type>
+                            <sort_order>20</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <comment><![CDATA[Your Twitter website tag ID(s) can be found in your <a href="https://ads.twitter.com/accounts/" target="_blank">campaign dashboard</a> on the conversion tracking page underneath the “Tools” menu. Choose the “All Site Visits” tag(s) you’d like to place and then just click “View code” and get the ID from the block of code. If entering multiple IDs, please separate them with a comma.]]></comment>
+                        </pixel_id>
+                        <loadorder translate="label">
+                            <label>Twitter Tag Load Order</label>
+                            <frontend_type>select</frontend_type>
+                            <source_model>EngageCommerce_Twitter_Model_LoadOrder</source_model>
+                            <sort_order>10</sort_order>
+                            <show_in_default>1</show_in_default>
+                            <show_in_website>1</show_in_website>
+                            <show_in_store>1</show_in_store>
+                            <comment><![CDATA[Change where in your page the Twitter website tag will load if needed, but <a href="https://business.twitter.com/help/conversion-tracking-for-websites" target="_blank">Twitter recommends</a> loading it at the end of the body section.]]></comment>
+                        </loadorder>
+                    </fields>
+                </twitter_pixel>
+            </groups>
+        </engagecommerce_twitter>
+    </sections>
+</config>
